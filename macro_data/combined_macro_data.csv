@@ -1,0 +1,2401 @@
+Series,date,value,period
+Global Inflation,2000-01-01,169.3,
+Global Inflation,2000-02-01,170.0,
+Global Inflation,2000-03-01,171.0,
+Global Inflation,2000-04-01,170.9,
+Global Inflation,2000-05-01,171.2,
+Global Inflation,2000-06-01,172.2,
+Global Inflation,2000-07-01,172.7,
+Global Inflation,2000-08-01,172.7,
+Global Inflation,2000-09-01,173.6,
+Global Inflation,2000-10-01,173.9,
+Global Inflation,2000-11-01,174.2,
+Global Inflation,2000-12-01,174.6,
+Global Inflation,2001-01-01,175.6,
+Global Inflation,2001-02-01,176.0,
+Global Inflation,2001-03-01,176.1,
+Global Inflation,2001-04-01,176.4,
+Global Inflation,2001-05-01,177.3,
+Global Inflation,2001-06-01,177.7,
+Global Inflation,2001-07-01,177.4,
+Global Inflation,2001-08-01,177.4,
+Global Inflation,2001-09-01,178.1,
+Global Inflation,2001-10-01,177.6,
+Global Inflation,2001-11-01,177.5,
+Global Inflation,2001-12-01,177.4,
+Global Inflation,2002-01-01,177.7,
+Global Inflation,2002-02-01,178.0,
+Global Inflation,2002-03-01,178.5,
+Global Inflation,2002-04-01,179.3,
+Global Inflation,2002-05-01,179.5,
+Global Inflation,2002-06-01,179.6,
+Global Inflation,2002-07-01,180.0,
+Global Inflation,2002-08-01,180.5,
+Global Inflation,2002-09-01,180.8,
+Global Inflation,2002-10-01,181.2,
+Global Inflation,2002-11-01,181.5,
+Global Inflation,2002-12-01,181.8,
+Global Inflation,2003-01-01,182.6,
+Global Inflation,2003-02-01,183.6,
+Global Inflation,2003-03-01,183.9,
+Global Inflation,2003-04-01,183.2,
+Global Inflation,2003-05-01,182.9,
+Global Inflation,2003-06-01,183.1,
+Global Inflation,2003-07-01,183.7,
+Global Inflation,2003-08-01,184.5,
+Global Inflation,2003-09-01,185.1,
+Global Inflation,2003-10-01,184.9,
+Global Inflation,2003-11-01,185.0,
+Global Inflation,2003-12-01,185.5,
+Global Inflation,2004-01-01,186.3,
+Global Inflation,2004-02-01,186.7,
+Global Inflation,2004-03-01,187.1,
+Global Inflation,2004-04-01,187.4,
+Global Inflation,2004-05-01,188.2,
+Global Inflation,2004-06-01,188.9,
+Global Inflation,2004-07-01,189.1,
+Global Inflation,2004-08-01,189.2,
+Global Inflation,2004-09-01,189.8,
+Global Inflation,2004-10-01,190.8,
+Global Inflation,2004-11-01,191.7,
+Global Inflation,2004-12-01,191.7,
+Global Inflation,2005-01-01,191.6,
+Global Inflation,2005-02-01,192.4,
+Global Inflation,2005-03-01,193.1,
+Global Inflation,2005-04-01,193.7,
+Global Inflation,2005-05-01,193.6,
+Global Inflation,2005-06-01,193.7,
+Global Inflation,2005-07-01,194.9,
+Global Inflation,2005-08-01,196.1,
+Global Inflation,2005-09-01,198.8,
+Global Inflation,2005-10-01,199.1,
+Global Inflation,2005-11-01,198.1,
+Global Inflation,2005-12-01,198.1,
+Global Inflation,2006-01-01,199.3,
+Global Inflation,2006-02-01,199.4,
+Global Inflation,2006-03-01,199.7,
+Global Inflation,2006-04-01,200.7,
+Global Inflation,2006-05-01,201.3,
+Global Inflation,2006-06-01,201.8,
+Global Inflation,2006-07-01,202.9,
+Global Inflation,2006-08-01,203.8,
+Global Inflation,2006-09-01,202.8,
+Global Inflation,2006-10-01,201.9,
+Global Inflation,2006-11-01,202.0,
+Global Inflation,2006-12-01,203.1,
+Global Inflation,2007-01-01,203.437,
+Global Inflation,2007-02-01,204.226,
+Global Inflation,2007-03-01,205.288,
+Global Inflation,2007-04-01,205.904,
+Global Inflation,2007-05-01,206.755,
+Global Inflation,2007-06-01,207.234,
+Global Inflation,2007-07-01,207.603,
+Global Inflation,2007-08-01,207.667,
+Global Inflation,2007-09-01,208.547,
+Global Inflation,2007-10-01,209.19,
+Global Inflation,2007-11-01,210.834,
+Global Inflation,2007-12-01,211.445,
+Global Inflation,2008-01-01,212.174,
+Global Inflation,2008-02-01,212.687,
+Global Inflation,2008-03-01,213.448,
+Global Inflation,2008-04-01,213.942,
+Global Inflation,2008-05-01,215.208,
+Global Inflation,2008-06-01,217.463,
+Global Inflation,2008-07-01,219.016,
+Global Inflation,2008-08-01,218.69,
+Global Inflation,2008-09-01,218.877,
+Global Inflation,2008-10-01,216.995,
+Global Inflation,2008-11-01,213.153,
+Global Inflation,2008-12-01,211.398,
+Global Inflation,2009-01-01,211.933,
+Global Inflation,2009-02-01,212.705,
+Global Inflation,2009-03-01,212.495,
+Global Inflation,2009-04-01,212.709,
+Global Inflation,2009-05-01,213.022,
+Global Inflation,2009-06-01,214.79,
+Global Inflation,2009-07-01,214.726,
+Global Inflation,2009-08-01,215.445,
+Global Inflation,2009-09-01,215.861,
+Global Inflation,2009-10-01,216.509,
+Global Inflation,2009-11-01,217.234,
+Global Inflation,2009-12-01,217.347,
+Global Inflation,2010-01-01,217.488,
+Global Inflation,2010-02-01,217.281,
+Global Inflation,2010-03-01,217.353,
+Global Inflation,2010-04-01,217.403,
+Global Inflation,2010-05-01,217.29,
+Global Inflation,2010-06-01,217.199,
+Global Inflation,2010-07-01,217.605,
+Global Inflation,2010-08-01,217.923,
+Global Inflation,2010-09-01,218.275,
+Global Inflation,2010-10-01,219.035,
+Global Inflation,2010-11-01,219.59,
+Global Inflation,2010-12-01,220.472,
+Global Inflation,2011-01-01,221.187,
+Global Inflation,2011-02-01,221.898,
+Global Inflation,2011-03-01,223.046,
+Global Inflation,2011-04-01,224.093,
+Global Inflation,2011-05-01,224.806,
+Global Inflation,2011-06-01,224.806,
+Global Inflation,2011-07-01,225.395,
+Global Inflation,2011-08-01,226.106,
+Global Inflation,2011-09-01,226.597,
+Global Inflation,2011-10-01,226.75,
+Global Inflation,2011-11-01,227.169,
+Global Inflation,2011-12-01,227.223,
+Global Inflation,2012-01-01,227.842,
+Global Inflation,2012-02-01,228.329,
+Global Inflation,2012-03-01,228.807,
+Global Inflation,2012-04-01,229.187,
+Global Inflation,2012-05-01,228.713,
+Global Inflation,2012-06-01,228.524,
+Global Inflation,2012-07-01,228.59,
+Global Inflation,2012-08-01,229.918,
+Global Inflation,2012-09-01,231.015,
+Global Inflation,2012-10-01,231.638,
+Global Inflation,2012-11-01,231.249,
+Global Inflation,2012-12-01,231.221,
+Global Inflation,2013-01-01,231.679,
+Global Inflation,2013-02-01,232.937,
+Global Inflation,2013-03-01,232.282,
+Global Inflation,2013-04-01,231.797,
+Global Inflation,2013-05-01,231.893,
+Global Inflation,2013-06-01,232.445,
+Global Inflation,2013-07-01,232.9,
+Global Inflation,2013-08-01,233.456,
+Global Inflation,2013-09-01,233.544,
+Global Inflation,2013-10-01,233.669,
+Global Inflation,2013-11-01,234.1,
+Global Inflation,2013-12-01,234.719,
+Global Inflation,2014-01-01,235.288,
+Global Inflation,2014-02-01,235.547,
+Global Inflation,2014-03-01,236.028,
+Global Inflation,2014-04-01,236.468,
+Global Inflation,2014-05-01,236.918,
+Global Inflation,2014-06-01,237.231,
+Global Inflation,2014-07-01,237.498,
+Global Inflation,2014-08-01,237.46,
+Global Inflation,2014-09-01,237.477,
+Global Inflation,2014-10-01,237.43,
+Global Inflation,2014-11-01,236.983,
+Global Inflation,2014-12-01,236.252,
+Global Inflation,2015-01-01,234.747,
+Global Inflation,2015-02-01,235.342,
+Global Inflation,2015-03-01,235.976,
+Global Inflation,2015-04-01,236.222,
+Global Inflation,2015-05-01,237.001,
+Global Inflation,2015-06-01,237.657,
+Global Inflation,2015-07-01,238.034,
+Global Inflation,2015-08-01,238.033,
+Global Inflation,2015-09-01,237.498,
+Global Inflation,2015-10-01,237.733,
+Global Inflation,2015-11-01,238.017,
+Global Inflation,2015-12-01,237.761,
+Global Inflation,2016-01-01,237.652,
+Global Inflation,2016-02-01,237.336,
+Global Inflation,2016-03-01,238.08,
+Global Inflation,2016-04-01,238.992,
+Global Inflation,2016-05-01,239.557,
+Global Inflation,2016-06-01,240.222,
+Global Inflation,2016-07-01,240.101,
+Global Inflation,2016-08-01,240.545,
+Global Inflation,2016-09-01,241.176,
+Global Inflation,2016-10-01,241.741,
+Global Inflation,2016-11-01,242.026,
+Global Inflation,2016-12-01,242.637,
+Global Inflation,2017-01-01,243.618,
+Global Inflation,2017-02-01,244.006,
+Global Inflation,2017-03-01,243.892,
+Global Inflation,2017-04-01,244.193,
+Global Inflation,2017-05-01,244.004,
+Global Inflation,2017-06-01,244.163,
+Global Inflation,2017-07-01,244.243,
+Global Inflation,2017-08-01,245.183,
+Global Inflation,2017-09-01,246.435,
+Global Inflation,2017-10-01,246.626,
+Global Inflation,2017-11-01,247.284,
+Global Inflation,2017-12-01,247.805,
+Global Inflation,2018-01-01,248.859,
+Global Inflation,2018-02-01,249.529,
+Global Inflation,2018-03-01,249.577,
+Global Inflation,2018-04-01,250.227,
+Global Inflation,2018-05-01,250.792,
+Global Inflation,2018-06-01,251.018,
+Global Inflation,2018-07-01,251.214,
+Global Inflation,2018-08-01,251.663,
+Global Inflation,2018-09-01,252.182,
+Global Inflation,2018-10-01,252.772,
+Global Inflation,2018-11-01,252.594,
+Global Inflation,2018-12-01,252.767,
+Global Inflation,2019-01-01,252.561,
+Global Inflation,2019-02-01,253.319,
+Global Inflation,2019-03-01,254.277,
+Global Inflation,2019-04-01,255.233,
+Global Inflation,2019-05-01,255.296,
+Global Inflation,2019-06-01,255.213,
+Global Inflation,2019-07-01,255.802,
+Global Inflation,2019-08-01,256.036,
+Global Inflation,2019-09-01,256.43,
+Global Inflation,2019-10-01,257.155,
+Global Inflation,2019-11-01,257.879,
+Global Inflation,2019-12-01,258.63,
+Global Inflation,2020-01-01,258.906,
+Global Inflation,2020-02-01,259.246,
+Global Inflation,2020-03-01,258.15,
+Global Inflation,2020-04-01,256.126,
+Global Inflation,2020-05-01,255.848,
+Global Inflation,2020-06-01,257.004,
+Global Inflation,2020-07-01,258.408,
+Global Inflation,2020-08-01,259.366,
+Global Inflation,2020-09-01,259.951,
+Global Inflation,2020-10-01,260.249,
+Global Inflation,2020-11-01,260.895,
+Global Inflation,2020-12-01,262.005,
+Global Inflation,2021-01-01,262.518,
+Global Inflation,2021-02-01,263.583,
+Global Inflation,2021-03-01,264.91,
+Global Inflation,2021-04-01,266.752,
+Global Inflation,2021-05-01,268.452,
+Global Inflation,2021-06-01,270.664,
+Global Inflation,2021-07-01,271.994,
+Global Inflation,2021-08-01,272.789,
+Global Inflation,2021-09-01,273.887,
+Global Inflation,2021-10-01,276.434,
+Global Inflation,2021-11-01,278.799,
+Global Inflation,2021-12-01,280.808,
+Global Inflation,2022-01-01,282.39,
+Global Inflation,2022-02-01,284.535,
+Global Inflation,2022-03-01,287.553,
+Global Inflation,2022-04-01,288.764,
+Global Inflation,2022-05-01,291.359,
+Global Inflation,2022-06-01,294.996,
+Global Inflation,2022-07-01,294.977,
+Global Inflation,2022-08-01,295.209,
+Global Inflation,2022-09-01,296.341,
+Global Inflation,2022-10-01,297.863,
+Global Inflation,2022-11-01,298.648,
+Global Inflation,2022-12-01,298.812,
+Global Inflation,2023-01-01,300.356,
+Global Inflation,2023-02-01,301.509,
+Global Inflation,2023-03-01,301.744,
+Global Inflation,2023-04-01,303.032,
+Global Inflation,2023-05-01,303.365,
+Global Inflation,2023-06-01,304.003,
+Global Inflation,2023-07-01,304.628,
+Global Inflation,2023-08-01,306.187,
+Global Inflation,2023-09-01,307.288,
+Global Inflation,2023-10-01,307.531,
+Global Inflation,2023-11-01,308.024,
+Global Inflation,2023-12-01,308.742,
+Global Inflation,2024-01-01,309.685,
+U.S. Unemployment,2000-01-01,4.0,
+U.S. Unemployment,2000-02-01,4.1,
+U.S. Unemployment,2000-03-01,4.0,
+U.S. Unemployment,2000-04-01,3.8,
+U.S. Unemployment,2000-05-01,4.0,
+U.S. Unemployment,2000-06-01,4.0,
+U.S. Unemployment,2000-07-01,4.0,
+U.S. Unemployment,2000-08-01,4.1,
+U.S. Unemployment,2000-09-01,3.9,
+U.S. Unemployment,2000-10-01,3.9,
+U.S. Unemployment,2000-11-01,3.9,
+U.S. Unemployment,2000-12-01,3.9,
+U.S. Unemployment,2001-01-01,4.2,
+U.S. Unemployment,2001-02-01,4.2,
+U.S. Unemployment,2001-03-01,4.3,
+U.S. Unemployment,2001-04-01,4.4,
+U.S. Unemployment,2001-05-01,4.3,
+U.S. Unemployment,2001-06-01,4.5,
+U.S. Unemployment,2001-07-01,4.6,
+U.S. Unemployment,2001-08-01,4.9,
+U.S. Unemployment,2001-09-01,5.0,
+U.S. Unemployment,2001-10-01,5.3,
+U.S. Unemployment,2001-11-01,5.5,
+U.S. Unemployment,2001-12-01,5.7,
+U.S. Unemployment,2002-01-01,5.7,
+U.S. Unemployment,2002-02-01,5.7,
+U.S. Unemployment,2002-03-01,5.7,
+U.S. Unemployment,2002-04-01,5.9,
+U.S. Unemployment,2002-05-01,5.8,
+U.S. Unemployment,2002-06-01,5.8,
+U.S. Unemployment,2002-07-01,5.8,
+U.S. Unemployment,2002-08-01,5.7,
+U.S. Unemployment,2002-09-01,5.7,
+U.S. Unemployment,2002-10-01,5.7,
+U.S. Unemployment,2002-11-01,5.9,
+U.S. Unemployment,2002-12-01,6.0,
+U.S. Unemployment,2003-01-01,5.8,
+U.S. Unemployment,2003-02-01,5.9,
+U.S. Unemployment,2003-03-01,5.9,
+U.S. Unemployment,2003-04-01,6.0,
+U.S. Unemployment,2003-05-01,6.1,
+U.S. Unemployment,2003-06-01,6.3,
+U.S. Unemployment,2003-07-01,6.2,
+U.S. Unemployment,2003-08-01,6.1,
+U.S. Unemployment,2003-09-01,6.1,
+U.S. Unemployment,2003-10-01,6.0,
+U.S. Unemployment,2003-11-01,5.8,
+U.S. Unemployment,2003-12-01,5.7,
+U.S. Unemployment,2004-01-01,5.7,
+U.S. Unemployment,2004-02-01,5.6,
+U.S. Unemployment,2004-03-01,5.8,
+U.S. Unemployment,2004-04-01,5.6,
+U.S. Unemployment,2004-05-01,5.6,
+U.S. Unemployment,2004-06-01,5.6,
+U.S. Unemployment,2004-07-01,5.5,
+U.S. Unemployment,2004-08-01,5.4,
+U.S. Unemployment,2004-09-01,5.4,
+U.S. Unemployment,2004-10-01,5.5,
+U.S. Unemployment,2004-11-01,5.4,
+U.S. Unemployment,2004-12-01,5.4,
+U.S. Unemployment,2005-01-01,5.3,
+U.S. Unemployment,2005-02-01,5.4,
+U.S. Unemployment,2005-03-01,5.2,
+U.S. Unemployment,2005-04-01,5.2,
+U.S. Unemployment,2005-05-01,5.1,
+U.S. Unemployment,2005-06-01,5.0,
+U.S. Unemployment,2005-07-01,5.0,
+U.S. Unemployment,2005-08-01,4.9,
+U.S. Unemployment,2005-09-01,5.0,
+U.S. Unemployment,2005-10-01,5.0,
+U.S. Unemployment,2005-11-01,5.0,
+U.S. Unemployment,2005-12-01,4.9,
+U.S. Unemployment,2006-01-01,4.7,
+U.S. Unemployment,2006-02-01,4.8,
+U.S. Unemployment,2006-03-01,4.7,
+U.S. Unemployment,2006-04-01,4.7,
+U.S. Unemployment,2006-05-01,4.6,
+U.S. Unemployment,2006-06-01,4.6,
+U.S. Unemployment,2006-07-01,4.7,
+U.S. Unemployment,2006-08-01,4.7,
+U.S. Unemployment,2006-09-01,4.5,
+U.S. Unemployment,2006-10-01,4.4,
+U.S. Unemployment,2006-11-01,4.5,
+U.S. Unemployment,2006-12-01,4.4,
+U.S. Unemployment,2007-01-01,4.6,
+U.S. Unemployment,2007-02-01,4.5,
+U.S. Unemployment,2007-03-01,4.4,
+U.S. Unemployment,2007-04-01,4.5,
+U.S. Unemployment,2007-05-01,4.4,
+U.S. Unemployment,2007-06-01,4.6,
+U.S. Unemployment,2007-07-01,4.7,
+U.S. Unemployment,2007-08-01,4.6,
+U.S. Unemployment,2007-09-01,4.7,
+U.S. Unemployment,2007-10-01,4.7,
+U.S. Unemployment,2007-11-01,4.7,
+U.S. Unemployment,2007-12-01,5.0,
+U.S. Unemployment,2008-01-01,5.0,
+U.S. Unemployment,2008-02-01,4.9,
+U.S. Unemployment,2008-03-01,5.1,
+U.S. Unemployment,2008-04-01,5.0,
+U.S. Unemployment,2008-05-01,5.4,
+U.S. Unemployment,2008-06-01,5.6,
+U.S. Unemployment,2008-07-01,5.8,
+U.S. Unemployment,2008-08-01,6.1,
+U.S. Unemployment,2008-09-01,6.1,
+U.S. Unemployment,2008-10-01,6.5,
+U.S. Unemployment,2008-11-01,6.8,
+U.S. Unemployment,2008-12-01,7.3,
+U.S. Unemployment,2009-01-01,7.8,
+U.S. Unemployment,2009-02-01,8.3,
+U.S. Unemployment,2009-03-01,8.7,
+U.S. Unemployment,2009-04-01,9.0,
+U.S. Unemployment,2009-05-01,9.4,
+U.S. Unemployment,2009-06-01,9.5,
+U.S. Unemployment,2009-07-01,9.5,
+U.S. Unemployment,2009-08-01,9.6,
+U.S. Unemployment,2009-09-01,9.8,
+U.S. Unemployment,2009-10-01,10.0,
+U.S. Unemployment,2009-11-01,9.9,
+U.S. Unemployment,2009-12-01,9.9,
+U.S. Unemployment,2010-01-01,9.8,
+U.S. Unemployment,2010-02-01,9.8,
+U.S. Unemployment,2010-03-01,9.9,
+U.S. Unemployment,2010-04-01,9.9,
+U.S. Unemployment,2010-05-01,9.6,
+U.S. Unemployment,2010-06-01,9.4,
+U.S. Unemployment,2010-07-01,9.4,
+U.S. Unemployment,2010-08-01,9.5,
+U.S. Unemployment,2010-09-01,9.5,
+U.S. Unemployment,2010-10-01,9.4,
+U.S. Unemployment,2010-11-01,9.8,
+U.S. Unemployment,2010-12-01,9.3,
+U.S. Unemployment,2011-01-01,9.1,
+U.S. Unemployment,2011-02-01,9.0,
+U.S. Unemployment,2011-03-01,9.0,
+U.S. Unemployment,2011-04-01,9.1,
+U.S. Unemployment,2011-05-01,9.0,
+U.S. Unemployment,2011-06-01,9.1,
+U.S. Unemployment,2011-07-01,9.0,
+U.S. Unemployment,2011-08-01,9.0,
+U.S. Unemployment,2011-09-01,9.0,
+U.S. Unemployment,2011-10-01,8.8,
+U.S. Unemployment,2011-11-01,8.6,
+U.S. Unemployment,2011-12-01,8.5,
+U.S. Unemployment,2012-01-01,8.3,
+U.S. Unemployment,2012-02-01,8.3,
+U.S. Unemployment,2012-03-01,8.2,
+U.S. Unemployment,2012-04-01,8.2,
+U.S. Unemployment,2012-05-01,8.2,
+U.S. Unemployment,2012-06-01,8.2,
+U.S. Unemployment,2012-07-01,8.2,
+U.S. Unemployment,2012-08-01,8.1,
+U.S. Unemployment,2012-09-01,7.8,
+U.S. Unemployment,2012-10-01,7.8,
+U.S. Unemployment,2012-11-01,7.7,
+U.S. Unemployment,2012-12-01,7.9,
+U.S. Unemployment,2013-01-01,8.0,
+U.S. Unemployment,2013-02-01,7.7,
+U.S. Unemployment,2013-03-01,7.5,
+U.S. Unemployment,2013-04-01,7.6,
+U.S. Unemployment,2013-05-01,7.5,
+U.S. Unemployment,2013-06-01,7.5,
+U.S. Unemployment,2013-07-01,7.3,
+U.S. Unemployment,2013-08-01,7.2,
+U.S. Unemployment,2013-09-01,7.2,
+U.S. Unemployment,2013-10-01,7.2,
+U.S. Unemployment,2013-11-01,6.9,
+U.S. Unemployment,2013-12-01,6.7,
+U.S. Unemployment,2014-01-01,6.6,
+U.S. Unemployment,2014-02-01,6.7,
+U.S. Unemployment,2014-03-01,6.7,
+U.S. Unemployment,2014-04-01,6.2,
+U.S. Unemployment,2014-05-01,6.3,
+U.S. Unemployment,2014-06-01,6.1,
+U.S. Unemployment,2014-07-01,6.2,
+U.S. Unemployment,2014-08-01,6.1,
+U.S. Unemployment,2014-09-01,5.9,
+U.S. Unemployment,2014-10-01,5.7,
+U.S. Unemployment,2014-11-01,5.8,
+U.S. Unemployment,2014-12-01,5.6,
+U.S. Unemployment,2015-01-01,5.7,
+U.S. Unemployment,2015-02-01,5.5,
+U.S. Unemployment,2015-03-01,5.4,
+U.S. Unemployment,2015-04-01,5.4,
+U.S. Unemployment,2015-05-01,5.6,
+U.S. Unemployment,2015-06-01,5.3,
+U.S. Unemployment,2015-07-01,5.2,
+U.S. Unemployment,2015-08-01,5.1,
+U.S. Unemployment,2015-09-01,5.0,
+U.S. Unemployment,2015-10-01,5.0,
+U.S. Unemployment,2015-11-01,5.1,
+U.S. Unemployment,2015-12-01,5.0,
+U.S. Unemployment,2016-01-01,4.8,
+U.S. Unemployment,2016-02-01,4.9,
+U.S. Unemployment,2016-03-01,5.0,
+U.S. Unemployment,2016-04-01,5.1,
+U.S. Unemployment,2016-05-01,4.8,
+U.S. Unemployment,2016-06-01,4.9,
+U.S. Unemployment,2016-07-01,4.8,
+U.S. Unemployment,2016-08-01,4.9,
+U.S. Unemployment,2016-09-01,5.0,
+U.S. Unemployment,2016-10-01,4.9,
+U.S. Unemployment,2016-11-01,4.7,
+U.S. Unemployment,2016-12-01,4.7,
+U.S. Unemployment,2017-01-01,4.7,
+U.S. Unemployment,2017-02-01,4.6,
+U.S. Unemployment,2017-03-01,4.4,
+U.S. Unemployment,2017-04-01,4.4,
+U.S. Unemployment,2017-05-01,4.4,
+U.S. Unemployment,2017-06-01,4.3,
+U.S. Unemployment,2017-07-01,4.3,
+U.S. Unemployment,2017-08-01,4.4,
+U.S. Unemployment,2017-09-01,4.3,
+U.S. Unemployment,2017-10-01,4.2,
+U.S. Unemployment,2017-11-01,4.2,
+U.S. Unemployment,2017-12-01,4.1,
+U.S. Unemployment,2018-01-01,4.0,
+U.S. Unemployment,2018-02-01,4.1,
+U.S. Unemployment,2018-03-01,4.0,
+U.S. Unemployment,2018-04-01,4.0,
+U.S. Unemployment,2018-05-01,3.8,
+U.S. Unemployment,2018-06-01,4.0,
+U.S. Unemployment,2018-07-01,3.8,
+U.S. Unemployment,2018-08-01,3.8,
+U.S. Unemployment,2018-09-01,3.7,
+U.S. Unemployment,2018-10-01,3.8,
+U.S. Unemployment,2018-11-01,3.8,
+U.S. Unemployment,2018-12-01,3.9,
+U.S. Unemployment,2019-01-01,4.0,
+U.S. Unemployment,2019-02-01,3.8,
+U.S. Unemployment,2019-03-01,3.8,
+U.S. Unemployment,2019-04-01,3.7,
+U.S. Unemployment,2019-05-01,3.6,
+U.S. Unemployment,2019-06-01,3.6,
+U.S. Unemployment,2019-07-01,3.7,
+U.S. Unemployment,2019-08-01,3.6,
+U.S. Unemployment,2019-09-01,3.5,
+U.S. Unemployment,2019-10-01,3.6,
+U.S. Unemployment,2019-11-01,3.6,
+U.S. Unemployment,2019-12-01,3.6,
+U.S. Unemployment,2020-01-01,3.6,
+U.S. Unemployment,2020-02-01,3.5,
+U.S. Unemployment,2020-03-01,4.4,
+U.S. Unemployment,2020-04-01,14.8,
+U.S. Unemployment,2020-05-01,13.2,
+U.S. Unemployment,2020-06-01,11.0,
+U.S. Unemployment,2020-07-01,10.2,
+U.S. Unemployment,2020-08-01,8.4,
+U.S. Unemployment,2020-09-01,7.8,
+U.S. Unemployment,2020-10-01,6.8,
+U.S. Unemployment,2020-11-01,6.7,
+U.S. Unemployment,2020-12-01,6.7,
+U.S. Unemployment,2021-01-01,6.4,
+U.S. Unemployment,2021-02-01,6.2,
+U.S. Unemployment,2021-03-01,6.1,
+U.S. Unemployment,2021-04-01,6.1,
+U.S. Unemployment,2021-05-01,5.8,
+U.S. Unemployment,2021-06-01,5.9,
+U.S. Unemployment,2021-07-01,5.4,
+U.S. Unemployment,2021-08-01,5.1,
+U.S. Unemployment,2021-09-01,4.7,
+U.S. Unemployment,2021-10-01,4.5,
+U.S. Unemployment,2021-11-01,4.1,
+U.S. Unemployment,2021-12-01,3.9,
+U.S. Unemployment,2022-01-01,4.0,
+U.S. Unemployment,2022-02-01,3.8,
+U.S. Unemployment,2022-03-01,3.6,
+U.S. Unemployment,2022-04-01,3.7,
+U.S. Unemployment,2022-05-01,3.6,
+U.S. Unemployment,2022-06-01,3.6,
+U.S. Unemployment,2022-07-01,3.5,
+U.S. Unemployment,2022-08-01,3.6,
+U.S. Unemployment,2022-09-01,3.5,
+U.S. Unemployment,2022-10-01,3.6,
+U.S. Unemployment,2022-11-01,3.6,
+U.S. Unemployment,2022-12-01,3.5,
+U.S. Unemployment,2023-01-01,3.4,
+U.S. Unemployment,2023-02-01,3.6,
+U.S. Unemployment,2023-03-01,3.5,
+U.S. Unemployment,2023-04-01,3.4,
+U.S. Unemployment,2023-05-01,3.7,
+U.S. Unemployment,2023-06-01,3.6,
+U.S. Unemployment,2023-07-01,3.5,
+U.S. Unemployment,2023-08-01,3.8,
+U.S. Unemployment,2023-09-01,3.8,
+U.S. Unemployment,2023-10-01,3.8,
+U.S. Unemployment,2023-11-01,3.7,
+U.S. Unemployment,2023-12-01,3.7,
+U.S. Unemployment,2024-01-01,3.7,
+U.S. Interest Rate,2000-01-01,5.45,
+U.S. Interest Rate,2000-02-01,5.73,
+U.S. Interest Rate,2000-03-01,5.85,
+U.S. Interest Rate,2000-04-01,6.02,
+U.S. Interest Rate,2000-05-01,6.27,
+U.S. Interest Rate,2000-06-01,6.53,
+U.S. Interest Rate,2000-07-01,6.54,
+U.S. Interest Rate,2000-08-01,6.5,
+U.S. Interest Rate,2000-09-01,6.52,
+U.S. Interest Rate,2000-10-01,6.51,
+U.S. Interest Rate,2000-11-01,6.51,
+U.S. Interest Rate,2000-12-01,6.4,
+U.S. Interest Rate,2001-01-01,5.98,
+U.S. Interest Rate,2001-02-01,5.49,
+U.S. Interest Rate,2001-03-01,5.31,
+U.S. Interest Rate,2001-04-01,4.8,
+U.S. Interest Rate,2001-05-01,4.21,
+U.S. Interest Rate,2001-06-01,3.97,
+U.S. Interest Rate,2001-07-01,3.77,
+U.S. Interest Rate,2001-08-01,3.65,
+U.S. Interest Rate,2001-09-01,3.07,
+U.S. Interest Rate,2001-10-01,2.49,
+U.S. Interest Rate,2001-11-01,2.09,
+U.S. Interest Rate,2001-12-01,1.82,
+U.S. Interest Rate,2002-01-01,1.73,
+U.S. Interest Rate,2002-02-01,1.74,
+U.S. Interest Rate,2002-03-01,1.73,
+U.S. Interest Rate,2002-04-01,1.75,
+U.S. Interest Rate,2002-05-01,1.75,
+U.S. Interest Rate,2002-06-01,1.75,
+U.S. Interest Rate,2002-07-01,1.73,
+U.S. Interest Rate,2002-08-01,1.74,
+U.S. Interest Rate,2002-09-01,1.75,
+U.S. Interest Rate,2002-10-01,1.75,
+U.S. Interest Rate,2002-11-01,1.34,
+U.S. Interest Rate,2002-12-01,1.24,
+U.S. Interest Rate,2003-01-01,1.24,
+U.S. Interest Rate,2003-02-01,1.26,
+U.S. Interest Rate,2003-03-01,1.25,
+U.S. Interest Rate,2003-04-01,1.26,
+U.S. Interest Rate,2003-05-01,1.26,
+U.S. Interest Rate,2003-06-01,1.22,
+U.S. Interest Rate,2003-07-01,1.01,
+U.S. Interest Rate,2003-08-01,1.03,
+U.S. Interest Rate,2003-09-01,1.01,
+U.S. Interest Rate,2003-10-01,1.01,
+U.S. Interest Rate,2003-11-01,1.0,
+U.S. Interest Rate,2003-12-01,0.98,
+U.S. Interest Rate,2004-01-01,1.0,
+U.S. Interest Rate,2004-02-01,1.01,
+U.S. Interest Rate,2004-03-01,1.0,
+U.S. Interest Rate,2004-04-01,1.0,
+U.S. Interest Rate,2004-05-01,1.0,
+U.S. Interest Rate,2004-06-01,1.03,
+U.S. Interest Rate,2004-07-01,1.26,
+U.S. Interest Rate,2004-08-01,1.43,
+U.S. Interest Rate,2004-09-01,1.61,
+U.S. Interest Rate,2004-10-01,1.76,
+U.S. Interest Rate,2004-11-01,1.93,
+U.S. Interest Rate,2004-12-01,2.16,
+U.S. Interest Rate,2005-01-01,2.28,
+U.S. Interest Rate,2005-02-01,2.5,
+U.S. Interest Rate,2005-03-01,2.63,
+U.S. Interest Rate,2005-04-01,2.79,
+U.S. Interest Rate,2005-05-01,3.0,
+U.S. Interest Rate,2005-06-01,3.04,
+U.S. Interest Rate,2005-07-01,3.26,
+U.S. Interest Rate,2005-08-01,3.5,
+U.S. Interest Rate,2005-09-01,3.62,
+U.S. Interest Rate,2005-10-01,3.78,
+U.S. Interest Rate,2005-11-01,4.0,
+U.S. Interest Rate,2005-12-01,4.16,
+U.S. Interest Rate,2006-01-01,4.29,
+U.S. Interest Rate,2006-02-01,4.49,
+U.S. Interest Rate,2006-03-01,4.59,
+U.S. Interest Rate,2006-04-01,4.79,
+U.S. Interest Rate,2006-05-01,4.94,
+U.S. Interest Rate,2006-06-01,4.99,
+U.S. Interest Rate,2006-07-01,5.24,
+U.S. Interest Rate,2006-08-01,5.25,
+U.S. Interest Rate,2006-09-01,5.25,
+U.S. Interest Rate,2006-10-01,5.25,
+U.S. Interest Rate,2006-11-01,5.25,
+U.S. Interest Rate,2006-12-01,5.24,
+U.S. Interest Rate,2007-01-01,5.25,
+U.S. Interest Rate,2007-02-01,5.26,
+U.S. Interest Rate,2007-03-01,5.26,
+U.S. Interest Rate,2007-04-01,5.25,
+U.S. Interest Rate,2007-05-01,5.25,
+U.S. Interest Rate,2007-06-01,5.25,
+U.S. Interest Rate,2007-07-01,5.26,
+U.S. Interest Rate,2007-08-01,5.02,
+U.S. Interest Rate,2007-09-01,4.94,
+U.S. Interest Rate,2007-10-01,4.76,
+U.S. Interest Rate,2007-11-01,4.49,
+U.S. Interest Rate,2007-12-01,4.24,
+U.S. Interest Rate,2008-01-01,3.94,
+U.S. Interest Rate,2008-02-01,2.98,
+U.S. Interest Rate,2008-03-01,2.61,
+U.S. Interest Rate,2008-04-01,2.28,
+U.S. Interest Rate,2008-05-01,1.98,
+U.S. Interest Rate,2008-06-01,2.0,
+U.S. Interest Rate,2008-07-01,2.01,
+U.S. Interest Rate,2008-08-01,2.0,
+U.S. Interest Rate,2008-09-01,1.81,
+U.S. Interest Rate,2008-10-01,0.97,
+U.S. Interest Rate,2008-11-01,0.39,
+U.S. Interest Rate,2008-12-01,0.16,
+U.S. Interest Rate,2009-01-01,0.15,
+U.S. Interest Rate,2009-02-01,0.22,
+U.S. Interest Rate,2009-03-01,0.18,
+U.S. Interest Rate,2009-04-01,0.15,
+U.S. Interest Rate,2009-05-01,0.18,
+U.S. Interest Rate,2009-06-01,0.21,
+U.S. Interest Rate,2009-07-01,0.16,
+U.S. Interest Rate,2009-08-01,0.16,
+U.S. Interest Rate,2009-09-01,0.15,
+U.S. Interest Rate,2009-10-01,0.12,
+U.S. Interest Rate,2009-11-01,0.12,
+U.S. Interest Rate,2009-12-01,0.12,
+U.S. Interest Rate,2010-01-01,0.11,
+U.S. Interest Rate,2010-02-01,0.13,
+U.S. Interest Rate,2010-03-01,0.16,
+U.S. Interest Rate,2010-04-01,0.2,
+U.S. Interest Rate,2010-05-01,0.2,
+U.S. Interest Rate,2010-06-01,0.18,
+U.S. Interest Rate,2010-07-01,0.18,
+U.S. Interest Rate,2010-08-01,0.19,
+U.S. Interest Rate,2010-09-01,0.19,
+U.S. Interest Rate,2010-10-01,0.19,
+U.S. Interest Rate,2010-11-01,0.19,
+U.S. Interest Rate,2010-12-01,0.18,
+U.S. Interest Rate,2011-01-01,0.17,
+U.S. Interest Rate,2011-02-01,0.16,
+U.S. Interest Rate,2011-03-01,0.14,
+U.S. Interest Rate,2011-04-01,0.1,
+U.S. Interest Rate,2011-05-01,0.09,
+U.S. Interest Rate,2011-06-01,0.09,
+U.S. Interest Rate,2011-07-01,0.07,
+U.S. Interest Rate,2011-08-01,0.1,
+U.S. Interest Rate,2011-09-01,0.08,
+U.S. Interest Rate,2011-10-01,0.07,
+U.S. Interest Rate,2011-11-01,0.08,
+U.S. Interest Rate,2011-12-01,0.07,
+U.S. Interest Rate,2012-01-01,0.08,
+U.S. Interest Rate,2012-02-01,0.1,
+U.S. Interest Rate,2012-03-01,0.13,
+U.S. Interest Rate,2012-04-01,0.14,
+U.S. Interest Rate,2012-05-01,0.16,
+U.S. Interest Rate,2012-06-01,0.16,
+U.S. Interest Rate,2012-07-01,0.16,
+U.S. Interest Rate,2012-08-01,0.13,
+U.S. Interest Rate,2012-09-01,0.14,
+U.S. Interest Rate,2012-10-01,0.16,
+U.S. Interest Rate,2012-11-01,0.16,
+U.S. Interest Rate,2012-12-01,0.16,
+U.S. Interest Rate,2013-01-01,0.14,
+U.S. Interest Rate,2013-02-01,0.15,
+U.S. Interest Rate,2013-03-01,0.14,
+U.S. Interest Rate,2013-04-01,0.15,
+U.S. Interest Rate,2013-05-01,0.11,
+U.S. Interest Rate,2013-06-01,0.09,
+U.S. Interest Rate,2013-07-01,0.09,
+U.S. Interest Rate,2013-08-01,0.08,
+U.S. Interest Rate,2013-09-01,0.08,
+U.S. Interest Rate,2013-10-01,0.09,
+U.S. Interest Rate,2013-11-01,0.08,
+U.S. Interest Rate,2013-12-01,0.09,
+U.S. Interest Rate,2014-01-01,0.07,
+U.S. Interest Rate,2014-02-01,0.07,
+U.S. Interest Rate,2014-03-01,0.08,
+U.S. Interest Rate,2014-04-01,0.09,
+U.S. Interest Rate,2014-05-01,0.09,
+U.S. Interest Rate,2014-06-01,0.1,
+U.S. Interest Rate,2014-07-01,0.09,
+U.S. Interest Rate,2014-08-01,0.09,
+U.S. Interest Rate,2014-09-01,0.09,
+U.S. Interest Rate,2014-10-01,0.09,
+U.S. Interest Rate,2014-11-01,0.09,
+U.S. Interest Rate,2014-12-01,0.12,
+U.S. Interest Rate,2015-01-01,0.11,
+U.S. Interest Rate,2015-02-01,0.11,
+U.S. Interest Rate,2015-03-01,0.11,
+U.S. Interest Rate,2015-04-01,0.12,
+U.S. Interest Rate,2015-05-01,0.12,
+U.S. Interest Rate,2015-06-01,0.13,
+U.S. Interest Rate,2015-07-01,0.13,
+U.S. Interest Rate,2015-08-01,0.14,
+U.S. Interest Rate,2015-09-01,0.14,
+U.S. Interest Rate,2015-10-01,0.12,
+U.S. Interest Rate,2015-11-01,0.12,
+U.S. Interest Rate,2015-12-01,0.24,
+U.S. Interest Rate,2016-01-01,0.34,
+U.S. Interest Rate,2016-02-01,0.38,
+U.S. Interest Rate,2016-03-01,0.36,
+U.S. Interest Rate,2016-04-01,0.37,
+U.S. Interest Rate,2016-05-01,0.37,
+U.S. Interest Rate,2016-06-01,0.38,
+U.S. Interest Rate,2016-07-01,0.39,
+U.S. Interest Rate,2016-08-01,0.4,
+U.S. Interest Rate,2016-09-01,0.4,
+U.S. Interest Rate,2016-10-01,0.4,
+U.S. Interest Rate,2016-11-01,0.41,
+U.S. Interest Rate,2016-12-01,0.54,
+U.S. Interest Rate,2017-01-01,0.65,
+U.S. Interest Rate,2017-02-01,0.66,
+U.S. Interest Rate,2017-03-01,0.79,
+U.S. Interest Rate,2017-04-01,0.9,
+U.S. Interest Rate,2017-05-01,0.91,
+U.S. Interest Rate,2017-06-01,1.04,
+U.S. Interest Rate,2017-07-01,1.15,
+U.S. Interest Rate,2017-08-01,1.16,
+U.S. Interest Rate,2017-09-01,1.15,
+U.S. Interest Rate,2017-10-01,1.15,
+U.S. Interest Rate,2017-11-01,1.16,
+U.S. Interest Rate,2017-12-01,1.3,
+U.S. Interest Rate,2018-01-01,1.41,
+U.S. Interest Rate,2018-02-01,1.42,
+U.S. Interest Rate,2018-03-01,1.51,
+U.S. Interest Rate,2018-04-01,1.69,
+U.S. Interest Rate,2018-05-01,1.7,
+U.S. Interest Rate,2018-06-01,1.82,
+U.S. Interest Rate,2018-07-01,1.91,
+U.S. Interest Rate,2018-08-01,1.91,
+U.S. Interest Rate,2018-09-01,1.95,
+U.S. Interest Rate,2018-10-01,2.19,
+U.S. Interest Rate,2018-11-01,2.2,
+U.S. Interest Rate,2018-12-01,2.27,
+U.S. Interest Rate,2019-01-01,2.4,
+U.S. Interest Rate,2019-02-01,2.4,
+U.S. Interest Rate,2019-03-01,2.41,
+U.S. Interest Rate,2019-04-01,2.42,
+U.S. Interest Rate,2019-05-01,2.39,
+U.S. Interest Rate,2019-06-01,2.38,
+U.S. Interest Rate,2019-07-01,2.4,
+U.S. Interest Rate,2019-08-01,2.13,
+U.S. Interest Rate,2019-09-01,2.04,
+U.S. Interest Rate,2019-10-01,1.83,
+U.S. Interest Rate,2019-11-01,1.55,
+U.S. Interest Rate,2019-12-01,1.55,
+U.S. Interest Rate,2020-01-01,1.55,
+U.S. Interest Rate,2020-02-01,1.58,
+U.S. Interest Rate,2020-03-01,0.65,
+U.S. Interest Rate,2020-04-01,0.05,
+U.S. Interest Rate,2020-05-01,0.05,
+U.S. Interest Rate,2020-06-01,0.08,
+U.S. Interest Rate,2020-07-01,0.09,
+U.S. Interest Rate,2020-08-01,0.1,
+U.S. Interest Rate,2020-09-01,0.09,
+U.S. Interest Rate,2020-10-01,0.09,
+U.S. Interest Rate,2020-11-01,0.09,
+U.S. Interest Rate,2020-12-01,0.09,
+U.S. Interest Rate,2021-01-01,0.09,
+U.S. Interest Rate,2021-02-01,0.08,
+U.S. Interest Rate,2021-03-01,0.07,
+U.S. Interest Rate,2021-04-01,0.07,
+U.S. Interest Rate,2021-05-01,0.06,
+U.S. Interest Rate,2021-06-01,0.08,
+U.S. Interest Rate,2021-07-01,0.1,
+U.S. Interest Rate,2021-08-01,0.09,
+U.S. Interest Rate,2021-09-01,0.08,
+U.S. Interest Rate,2021-10-01,0.08,
+U.S. Interest Rate,2021-11-01,0.08,
+U.S. Interest Rate,2021-12-01,0.08,
+U.S. Interest Rate,2022-01-01,0.08,
+U.S. Interest Rate,2022-02-01,0.08,
+U.S. Interest Rate,2022-03-01,0.2,
+U.S. Interest Rate,2022-04-01,0.33,
+U.S. Interest Rate,2022-05-01,0.77,
+U.S. Interest Rate,2022-06-01,1.21,
+U.S. Interest Rate,2022-07-01,1.68,
+U.S. Interest Rate,2022-08-01,2.33,
+U.S. Interest Rate,2022-09-01,2.56,
+U.S. Interest Rate,2022-10-01,3.08,
+U.S. Interest Rate,2022-11-01,3.78,
+U.S. Interest Rate,2022-12-01,4.1,
+U.S. Interest Rate,2023-01-01,4.33,
+U.S. Interest Rate,2023-02-01,4.57,
+U.S. Interest Rate,2023-03-01,4.65,
+U.S. Interest Rate,2023-04-01,4.83,
+U.S. Interest Rate,2023-05-01,5.06,
+U.S. Interest Rate,2023-06-01,5.08,
+U.S. Interest Rate,2023-07-01,5.12,
+U.S. Interest Rate,2023-08-01,5.33,
+U.S. Interest Rate,2023-09-01,5.33,
+U.S. Interest Rate,2023-10-01,5.33,
+U.S. Interest Rate,2023-11-01,5.33,
+U.S. Interest Rate,2023-12-01,5.33,
+U.S. Interest Rate,2024-01-01,5.33,
+EU Unemployment,2000-01-01,9.2,
+EU Unemployment,2000-04-01,9.06666666666667,
+EU Unemployment,2000-07-01,8.93333333333333,
+EU Unemployment,2000-10-01,8.76666666666667,
+EU Unemployment,2001-01-01,8.7,
+EU Unemployment,2001-04-01,8.7,
+EU Unemployment,2001-07-01,8.73333333333333,
+EU Unemployment,2001-10-01,8.86666666666667,
+EU Unemployment,2002-01-01,8.96666666666667,
+EU Unemployment,2002-04-01,9.03333333333333,
+EU Unemployment,2002-07-01,9.1,
+EU Unemployment,2002-10-01,9.1,
+EU Unemployment,2003-01-01,9.13333333333333,
+EU Unemployment,2003-04-01,9.13333333333333,
+EU Unemployment,2003-07-01,9.2,
+EU Unemployment,2003-10-01,9.2,
+EU Unemployment,2004-01-01,9.3,
+EU Unemployment,2004-04-01,9.26666666666667,
+EU Unemployment,2004-07-01,9.2,
+EU Unemployment,2004-10-01,9.16666666666666,
+EU Unemployment,2005-01-01,9.1,
+EU Unemployment,2005-04-01,9.1,
+EU Unemployment,2005-07-01,8.93333333333333,
+EU Unemployment,2005-10-01,8.83333333333334,
+EU Unemployment,2006-01-01,8.6,
+EU Unemployment,2006-04-01,8.33333333333334,
+EU Unemployment,2006-07-01,8.13333333333333,
+EU Unemployment,2006-10-01,7.9,
+EU Unemployment,2007-01-01,7.5,
+EU Unemployment,2007-04-01,7.23333333333333,
+EU Unemployment,2007-07-01,7.13333333333333,
+EU Unemployment,2007-10-01,6.93333333333333,
+EU Unemployment,2008-01-01,6.83333333333333,
+EU Unemployment,2008-04-01,6.9,
+EU Unemployment,2008-07-01,7.03333333333333,
+EU Unemployment,2008-10-01,7.43333333333333,
+EU Unemployment,2009-01-01,8.33333333333334,
+EU Unemployment,2009-04-01,8.9,
+EU Unemployment,2009-07-01,9.2,
+EU Unemployment,2009-10-01,9.43333333333333,
+EU Unemployment,2010-01-01,9.66666666666666,
+EU Unemployment,2010-04-01,9.66666666666666,
+EU Unemployment,2010-07-01,9.6,
+EU Unemployment,2010-10-01,9.6,
+EU Unemployment,2011-01-01,9.5,
+EU Unemployment,2011-04-01,9.46666666666667,
+EU Unemployment,2011-07-01,9.7,
+EU Unemployment,2011-10-01,10.0,
+EU Unemployment,2012-01-01,10.2,
+EU Unemployment,2012-04-01,10.4333333333333,
+EU Unemployment,2012-07-01,10.5666666666667,
+EU Unemployment,2012-10-01,10.7666666666667,
+EU Unemployment,2013-01-01,11.0,
+EU Unemployment,2013-04-01,11.0,
+EU Unemployment,2013-07-01,10.8666666666667,
+EU Unemployment,2013-10-01,10.7,
+EU Unemployment,2014-01-01,10.5666666666667,
+EU Unemployment,2014-04-01,10.3,
+EU Unemployment,2014-07-01,10.0666666666667,
+EU Unemployment,2014-10-01,9.96666666666667,
+EU Unemployment,2015-01-01,9.76666666666667,
+EU Unemployment,2015-04-01,9.6,
+EU Unemployment,2015-07-01,9.23333333333333,
+EU Unemployment,2015-10-01,9.03333333333333,
+EU Unemployment,2016-01-01,8.86666666666667,
+EU Unemployment,2016-04-01,8.66666666666666,
+EU Unemployment,2016-07-01,8.43333333333333,
+EU Unemployment,2016-10-01,8.23333333333334,
+EU Unemployment,2017-01-01,8.0,
+EU Unemployment,2017-04-01,7.73333333333333,
+EU Unemployment,2017-07-01,7.56666666666667,
+EU Unemployment,2017-10-01,7.3,
+EU Unemployment,2018-01-01,7.1,
+EU Unemployment,2018-04-01,6.93333333333333,
+EU Unemployment,2018-07-01,6.76666666666667,
+EU Unemployment,2018-10-01,6.63333333333333,
+EU Unemployment,2019-01-01,6.46666666666667,
+EU Unemployment,2019-04-01,6.33333333333333,
+EU Unemployment,2019-07-01,6.3,
+EU Unemployment,2019-10-01,6.2,
+EU Interest Rate,2000-01-01,3.0429,
+EU Interest Rate,2000-02-01,3.2757,
+EU Interest Rate,2000-03-01,3.5104,
+EU Interest Rate,2000-04-01,3.685,
+EU Interest Rate,2000-05-01,3.92,
+EU Interest Rate,2000-06-01,4.2945,
+EU Interest Rate,2000-07-01,4.3086,
+EU Interest Rate,2000-08-01,4.4191,
+EU Interest Rate,2000-09-01,4.5905,
+EU Interest Rate,2000-10-01,4.7627,
+EU Interest Rate,2000-11-01,4.8291,
+EU Interest Rate,2000-12-01,4.8268,
+EU Interest Rate,2001-01-01,4.7559,
+EU Interest Rate,2001-02-01,4.9925,
+EU Interest Rate,2001-03-01,4.7814,
+EU Interest Rate,2001-04-01,5.0642,
+EU Interest Rate,2001-05-01,4.6536,
+EU Interest Rate,2001-06-01,4.5395,
+EU Interest Rate,2001-07-01,4.5055,
+EU Interest Rate,2001-08-01,4.4913,
+EU Interest Rate,2001-09-01,3.9865,
+EU Interest Rate,2001-10-01,3.9713,
+EU Interest Rate,2001-11-01,3.5073,
+EU Interest Rate,2001-12-01,3.3389,
+EU Interest Rate,2002-01-01,3.2936,
+EU Interest Rate,2002-02-01,3.283,
+EU Interest Rate,2002-03-01,3.264,
+EU Interest Rate,2002-04-01,3.3162,
+EU Interest Rate,2002-05-01,3.31,
+EU Interest Rate,2002-06-01,3.3485,
+EU Interest Rate,2002-07-01,3.3017,
+EU Interest Rate,2002-08-01,3.2927,
+EU Interest Rate,2002-09-01,3.3186,
+EU Interest Rate,2002-10-01,3.3004,
+EU Interest Rate,2002-11-01,3.3043,
+EU Interest Rate,2002-12-01,3.0945,
+EU Interest Rate,2003-01-01,2.7868,
+EU Interest Rate,2003-02-01,2.7635,
+EU Interest Rate,2003-03-01,2.7489999999999997,
+EU Interest Rate,2003-04-01,2.5605,
+EU Interest Rate,2003-05-01,2.5571,
+EU Interest Rate,2003-06-01,2.2133,
+EU Interest Rate,2003-07-01,2.0783,
+EU Interest Rate,2003-08-01,2.0981,
+EU Interest Rate,2003-09-01,2.0209,
+EU Interest Rate,2003-10-01,2.0148,
+EU Interest Rate,2003-11-01,1.973,
+EU Interest Rate,2003-12-01,2.0567,
+EU Interest Rate,2004-01-01,2.0214,
+EU Interest Rate,2004-02-01,2.0315,
+EU Interest Rate,2004-03-01,2.0057,
+EU Interest Rate,2004-04-01,2.0780000000000003,
+EU Interest Rate,2004-05-01,2.0152,
+EU Interest Rate,2004-06-01,2.0277,
+EU Interest Rate,2004-07-01,2.0677,
+EU Interest Rate,2004-08-01,2.0405,
+EU Interest Rate,2004-09-01,2.0518,
+EU Interest Rate,2004-10-01,2.1114,
+EU Interest Rate,2004-11-01,2.085,
+EU Interest Rate,2004-12-01,2.0535,
+EU Interest Rate,2005-01-01,2.0771,
+EU Interest Rate,2005-02-01,2.0585,
+EU Interest Rate,2005-03-01,2.0567,
+EU Interest Rate,2005-04-01,2.0757,
+EU Interest Rate,2005-05-01,2.07,
+EU Interest Rate,2005-06-01,2.0623,
+EU Interest Rate,2005-07-01,2.0729,
+EU Interest Rate,2005-08-01,2.0609,
+EU Interest Rate,2005-09-01,2.0941,
+EU Interest Rate,2005-10-01,2.0671,
+EU Interest Rate,2005-11-01,2.0859,
+EU Interest Rate,2005-12-01,2.2757,
+EU Interest Rate,2006-01-01,2.3264,
+EU Interest Rate,2006-02-01,2.3495,
+EU Interest Rate,2006-03-01,2.52,
+EU Interest Rate,2006-04-01,2.6283,
+EU Interest Rate,2006-05-01,2.5768,
+EU Interest Rate,2006-06-01,2.6977,
+EU Interest Rate,2006-07-01,2.8138,
+EU Interest Rate,2006-08-01,2.9683,
+EU Interest Rate,2006-09-01,3.0410000000000004,
+EU Interest Rate,2006-10-01,3.2782,
+EU Interest Rate,2006-11-01,3.3277,
+EU Interest Rate,2006-12-01,3.5011,
+EU Interest Rate,2007-01-01,3.5632,
+EU Interest Rate,2007-02-01,3.5695,
+EU Interest Rate,2007-03-01,3.6909,
+EU Interest Rate,2007-04-01,3.8195,
+EU Interest Rate,2007-05-01,3.7905,
+EU Interest Rate,2007-06-01,3.9557,
+EU Interest Rate,2007-07-01,4.0632,
+EU Interest Rate,2007-08-01,4.0474,
+EU Interest Rate,2007-09-01,4.0286,
+EU Interest Rate,2007-10-01,3.9414,
+EU Interest Rate,2007-11-01,4.0221,
+EU Interest Rate,2007-12-01,3.8791,
+EU Interest Rate,2008-01-01,4.0218,
+EU Interest Rate,2008-02-01,4.0279,
+EU Interest Rate,2008-03-01,4.091,
+EU Interest Rate,2008-04-01,3.9868,
+EU Interest Rate,2008-05-01,4.0097,
+EU Interest Rate,2008-06-01,4.0067,
+EU Interest Rate,2008-07-01,4.1908,
+EU Interest Rate,2008-08-01,4.2989,
+EU Interest Rate,2008-09-01,4.2733,
+EU Interest Rate,2008-10-01,3.8198,
+EU Interest Rate,2008-11-01,3.1502,
+EU Interest Rate,2008-12-01,2.4864,
+EU Interest Rate,2009-01-01,1.8122,
+EU Interest Rate,2009-02-01,1.2571,
+EU Interest Rate,2009-03-01,1.062,
+EU Interest Rate,2009-04-01,0.8419,
+EU Interest Rate,2009-05-01,0.7821,
+EU Interest Rate,2009-06-01,0.698,
+EU Interest Rate,2009-07-01,0.3576,
+EU Interest Rate,2009-08-01,0.3475,
+EU Interest Rate,2009-09-01,0.3632,
+EU Interest Rate,2009-10-01,0.3587,
+EU Interest Rate,2009-11-01,0.3624,
+EU Interest Rate,2009-12-01,0.3546,
+EU Interest Rate,2010-01-01,0.344,
+EU Interest Rate,2010-02-01,0.3406,
+EU Interest Rate,2010-03-01,0.3477,
+EU Interest Rate,2010-04-01,0.3533,
+EU Interest Rate,2010-05-01,0.3439,
+EU Interest Rate,2010-06-01,0.3543,
+EU Interest Rate,2010-07-01,0.4811,
+EU Interest Rate,2010-08-01,0.4256,
+EU Interest Rate,2010-09-01,0.4536,
+EU Interest Rate,2010-10-01,0.7013,
+EU Interest Rate,2010-11-01,0.5926,
+EU Interest Rate,2010-12-01,0.4981,
+EU Interest Rate,2011-01-01,0.659,
+EU Interest Rate,2011-02-01,0.7071,
+EU Interest Rate,2011-03-01,0.6587,
+EU Interest Rate,2011-04-01,0.9661,
+EU Interest Rate,2011-05-01,1.0334,
+EU Interest Rate,2011-06-01,1.124,
+EU Interest Rate,2011-07-01,1.0118,
+EU Interest Rate,2011-08-01,0.9058,
+EU Interest Rate,2011-09-01,1.0055,
+EU Interest Rate,2011-10-01,0.9596,
+EU Interest Rate,2011-11-01,0.79,
+EU Interest Rate,2011-12-01,0.627,
+EU Interest Rate,2012-01-01,0.38,
+EU Interest Rate,2012-02-01,0.3656,
+EU Interest Rate,2012-03-01,0.3567,
+EU Interest Rate,2012-04-01,0.3451,
+EU Interest Rate,2012-05-01,0.337,
+EU Interest Rate,2012-06-01,0.332,
+EU Interest Rate,2012-07-01,0.1842,
+EU Interest Rate,2012-08-01,0.1101,
+EU Interest Rate,2012-09-01,0.0993,
+EU Interest Rate,2012-10-01,0.0907,
+EU Interest Rate,2012-11-01,0.0785,
+EU Interest Rate,2012-12-01,0.0734,
+EU Interest Rate,2013-01-01,0.069,
+EU Interest Rate,2013-02-01,0.0677,
+EU Interest Rate,2013-03-01,0.067,
+EU Interest Rate,2013-04-01,0.081,
+EU Interest Rate,2013-05-01,0.0787,
+EU Interest Rate,2013-06-01,0.0862,
+EU Interest Rate,2013-07-01,0.0931,
+EU Interest Rate,2013-08-01,0.08199999999999999,
+EU Interest Rate,2013-09-01,0.0803,
+EU Interest Rate,2013-10-01,0.0933,
+EU Interest Rate,2013-11-01,0.1031,
+EU Interest Rate,2013-12-01,0.1686,
+EU Interest Rate,2014-01-01,0.1961,
+EU Interest Rate,2014-02-01,0.1567,
+EU Interest Rate,2014-03-01,0.1919,
+EU Interest Rate,2014-04-01,0.2539,
+EU Interest Rate,2014-05-01,0.248,
+EU Interest Rate,2014-06-01,0.0758,
+EU Interest Rate,2014-07-01,0.0433,
+EU Interest Rate,2014-08-01,0.0179,
+EU Interest Rate,2014-09-01,0.0066,
+EU Interest Rate,2014-10-01,-0.0045,
+EU Interest Rate,2014-11-01,-0.0116,
+EU Interest Rate,2014-12-01,-0.0301,
+EU Interest Rate,2015-01-01,-0.0506,
+EU Interest Rate,2015-02-01,-0.036000000000000004,
+EU Interest Rate,2015-03-01,-0.0504,
+EU Interest Rate,2015-04-01,-0.0745,
+EU Interest Rate,2015-05-01,-0.1058,
+EU Interest Rate,2015-06-01,-0.1185,
+EU Interest Rate,2015-07-01,-0.1177,
+EU Interest Rate,2015-08-01,-0.1213,
+EU Interest Rate,2015-09-01,-0.1357,
+EU Interest Rate,2015-10-01,-0.1389,
+EU Interest Rate,2015-11-01,-0.1347,
+EU Interest Rate,2015-12-01,-0.19899999999999998,
+EU Interest Rate,2016-01-01,-0.2387,
+EU Interest Rate,2016-02-01,-0.2404,
+EU Interest Rate,2016-03-01,-0.2877,
+EU Interest Rate,2016-04-01,-0.3378,
+EU Interest Rate,2016-05-01,-0.33799999999999997,
+EU Interest Rate,2016-06-01,-0.3325,
+EU Interest Rate,2016-07-01,-0.3288,
+EU Interest Rate,2016-08-01,-0.3388,
+EU Interest Rate,2016-09-01,-0.34299999999999997,
+EU Interest Rate,2016-10-01,-0.3466,
+EU Interest Rate,2016-11-01,-0.3487,
+EU Interest Rate,2016-12-01,-0.3504,
+EU Interest Rate,2017-01-01,-0.3515,
+EU Interest Rate,2017-02-01,-0.3528,
+EU Interest Rate,2017-03-01,-0.3535,
+EU Interest Rate,2017-04-01,-0.3569,
+EU Interest Rate,2017-05-01,-0.3589,
+EU Interest Rate,2017-06-01,-0.3587,
+EU Interest Rate,2017-07-01,-0.3595,
+EU Interest Rate,2017-08-01,-0.3558,
+EU Interest Rate,2017-09-01,-0.3581,
+EU Interest Rate,2017-10-01,-0.359,
+EU Interest Rate,2017-11-01,-0.3492,
+EU Interest Rate,2017-12-01,-0.3423,
+EU Interest Rate,2018-01-01,-0.3624,
+EU Interest Rate,2018-02-01,-0.3647,
+EU Interest Rate,2018-03-01,-0.3639,
+EU Interest Rate,2018-04-01,-0.3657,
+EU Interest Rate,2018-05-01,-0.3625,
+EU Interest Rate,2018-06-01,-0.3618,
+EU Interest Rate,2018-07-01,-0.3636,
+EU Interest Rate,2018-08-01,-0.3591,
+EU Interest Rate,2018-09-01,-0.3627,
+EU Interest Rate,2018-10-01,-0.366,
+EU Interest Rate,2018-11-01,-0.3613,
+EU Interest Rate,2018-12-01,-0.3605,
+EU Interest Rate,2019-01-01,-0.36700000000000005,
+EU Interest Rate,2019-02-01,-0.36700000000000005,
+EU Interest Rate,2019-03-01,-0.3679,
+EU Interest Rate,2019-04-01,-0.36700000000000005,
+EU Interest Rate,2019-05-01,-0.3666,
+EU Interest Rate,2019-06-01,-0.3616,
+EU Interest Rate,2019-07-01,-0.3668,
+EU Interest Rate,2019-08-01,-0.3612,
+EU Interest Rate,2019-09-01,-0.4032,
+EU Interest Rate,2019-10-01,-0.549597777777778,
+EU Interest Rate,2019-11-01,-0.53915,
+EU Interest Rate,2019-12-01,-0.540201,
+EU Interest Rate,2020-01-01,-0.5374213636363641,
+EU Interest Rate,2020-02-01,-0.5382235,
+EU Interest Rate,2020-03-01,-0.535628636363636,
+EU Interest Rate,2020-04-01,-0.5354685,
+EU Interest Rate,2020-05-01,-0.540192,
+EU Interest Rate,2020-06-01,-0.544465,
+EU Interest Rate,2020-07-01,-0.549555652173913,
+EU Interest Rate,2020-08-01,-0.552087619047619,
+EU Interest Rate,2020-09-01,-0.552932727272727,
+EU Interest Rate,2020-10-01,-0.5546409090909089,
+EU Interest Rate,2020-11-01,-0.55621619047619,
+EU Interest Rate,2020-12-01,-0.5563490909090911,
+EU Interest Rate,2021-01-01,-0.5657645,
+EU Interest Rate,2021-02-01,-0.563521,
+EU Interest Rate,2021-03-01,-0.56376652173913,
+EU Interest Rate,2021-04-01,-0.5660555,
+EU Interest Rate,2021-05-01,-0.56470619047619,
+EU Interest Rate,2021-06-01,-0.5641259090909089,
+EU Interest Rate,2021-07-01,-0.566522272727273,
+EU Interest Rate,2021-08-01,-0.5681,
+EU Interest Rate,2021-09-01,-0.569360454545455,
+EU Interest Rate,2021-10-01,-0.570412857142857,
+EU Interest Rate,2021-11-01,-0.573237272727273,
+EU Interest Rate,2021-12-01,-0.576372173913044,
+EU Interest Rate,2022-01-01,-0.5794657142857139,
+EU Interest Rate,2022-02-01,-0.576333,
+EU Interest Rate,2022-03-01,-0.577703043478261,
+EU Interest Rate,2022-04-01,-0.583707368421053,
+EU Interest Rate,2022-05-01,-0.5847413636363641,
+EU Interest Rate,2022-06-01,-0.5826240909090911,
+EU Interest Rate,2022-07-01,-0.571064285714286,
+EU Interest Rate,2022-08-01,-0.0946521739130435,
+EU Interest Rate,2022-09-01,0.254584090909091,
+EU Interest Rate,2022-10-01,0.655378571428571,
+EU Interest Rate,2022-11-01,1.2666195454545501,
+EU Interest Rate,2022-12-01,1.50396476190476,
+EU Interest Rate,2023-01-01,1.9013118181818203,
+EU Interest Rate,2023-02-01,2.2006419999999998,
+EU Interest Rate,2023-03-01,2.50836391304348,
+EU Interest Rate,2023-04-01,2.89908111111111,
+EU Interest Rate,2023-05-01,3.04630909090909,
+EU Interest Rate,2023-06-01,3.20459045454545,
+EU Interest Rate,2023-07-01,3.40326333333333,
+EU Interest Rate,2023-08-01,3.61036652173913,
+EU Interest Rate,2023-09-01,3.7125219047619,
+EU Interest Rate,2023-10-01,3.9010604545454504,
+EU Interest Rate,2023-11-01,3.9027436363636405,
+EU Interest Rate,2023-12-01,3.90344210526316,
+EU Interest Rate,2024-01-01,3.90264954545455,
+Current Account Balance,,-56.283,1980-01-01
+Current Account Balance,,-82.156,1981-01-01
+Current Account Balance,,-91.859,1982-01-01
+Current Account Balance,,-75.971,1983-01-01
+Current Account Balance,,-67.937,1984-01-01
+Current Account Balance,,-63.542,1985-01-01
+Current Account Balance,,-66.333,1986-01-01
+Current Account Balance,,-63.541,1987-01-01
+Current Account Balance,,-57.27,1988-01-01
+Current Account Balance,,-83.357,1989-01-01
+Current Account Balance,,-111.62,1990-01-01
+Current Account Balance,,-152.062,1991-01-01
+Current Account Balance,,-136.405,1992-01-01
+Current Account Balance,,-67.192,1993-01-01
+Current Account Balance,,-89.198,1994-01-01
+Current Account Balance,,-74.649,1995-01-01
+Current Account Balance,,-62.661,1996-01-01
+Current Account Balance,,-9.193,1997-01-01
+Current Account Balance,,-82.845,1998-01-01
+Current Account Balance,,-98.95,1999-01-01
+Current Account Balance,,-155.677,2000-01-01
+Current Account Balance,,-187.088,2001-01-01
+Current Account Balance,,-144.777,2002-01-01
+Current Account Balance,,-83.15,2003-01-01
+Current Account Balance,,11.153,2004-01-01
+Current Account Balance,,50.142,2005-01-01
+Current Account Balance,,176.896,2006-01-01
+Current Account Balance,,215.571,2007-01-01
+Current Account Balance,,93.035,2008-01-01
+Current Account Balance,,176.433,2009-01-01
+Current Account Balance,,304.028,2010-01-01
+Current Account Balance,,328.176,2011-01-01
+Current Account Balance,,385.727,2012-01-01
+Current Account Balance,,404.967,2013-01-01
+Current Account Balance,,382.726,2014-01-01
+Current Account Balance,,186.396,2015-01-01
+Current Account Balance,,254.232,2016-01-01
+Current Account Balance,,443.896,2017-01-01
+Current Account Balance,,331.239,2018-01-01
+Current Account Balance,,387.083,2019-01-01
+Current Account Balance,,320.29,2020-01-01
+Current Account Balance,,918.576,2021-01-01
+Current Account Balance,,454.741,2022-01-01
+Current Account Balance,,563.929,2023-01-01
+Current Account Balance,,568.383,2024-01-01
+Current Account Balance,,553.963,2025-01-01
+Current Account Balance,,519.601,2026-01-01
+Current Account Balance,,489.259,2027-01-01
+Current Account Balance,,460.155,2028-01-01
+Current Account Balance,,403.577,2029-01-01
+Imports of Goods and Services,,,1980-01-01
+Imports of Goods and Services,,,1981-01-01
+Imports of Goods and Services,,,1982-01-01
+Imports of Goods and Services,,,1983-01-01
+Imports of Goods and Services,,,1984-01-01
+Imports of Goods and Services,,,1985-01-01
+Imports of Goods and Services,,,1986-01-01
+Imports of Goods and Services,,,1987-01-01
+Imports of Goods and Services,,,1988-01-01
+Imports of Goods and Services,,,1989-01-01
+Imports of Goods and Services,,,1990-01-01
+Imports of Goods and Services,,,1991-01-01
+Imports of Goods and Services,,,1992-01-01
+Imports of Goods and Services,,,1993-01-01
+Imports of Goods and Services,,,1994-01-01
+Imports of Goods and Services,,,1995-01-01
+Imports of Goods and Services,,,1996-01-01
+Imports of Goods and Services,,,1997-01-01
+Imports of Goods and Services,,,1998-01-01
+Imports of Goods and Services,,,1999-01-01
+Imports of Goods and Services,,,2000-01-01
+Imports of Goods and Services,,,2001-01-01
+Imports of Goods and Services,,,2002-01-01
+Imports of Goods and Services,,,2003-01-01
+Imports of Goods and Services,,,2004-01-01
+Imports of Goods and Services,,,2005-01-01
+Imports of Goods and Services,,,2006-01-01
+Imports of Goods and Services,,,2007-01-01
+Imports of Goods and Services,,,2008-01-01
+Imports of Goods and Services,,,2009-01-01
+Imports of Goods and Services,,,2010-01-01
+Imports of Goods and Services,,,2011-01-01
+Imports of Goods and Services,,,2012-01-01
+Imports of Goods and Services,,,2013-01-01
+Imports of Goods and Services,,,2014-01-01
+Imports of Goods and Services,,,2015-01-01
+Imports of Goods and Services,,,2016-01-01
+Imports of Goods and Services,,,2017-01-01
+Imports of Goods and Services,,,2018-01-01
+Imports of Goods and Services,,,2019-01-01
+Imports of Goods and Services,,,2020-01-01
+Imports of Goods and Services,,,2021-01-01
+Imports of Goods and Services,,,2022-01-01
+Imports of Goods and Services,,,2023-01-01
+Imports of Goods and Services,,,2024-01-01
+Imports of Goods and Services,,,2025-01-01
+Imports of Goods and Services,,,2026-01-01
+Imports of Goods and Services,,,2027-01-01
+Imports of Goods and Services,,,2028-01-01
+Imports of Goods and Services,,,2029-01-01
+Exports of Goods and Services,,,1980-01-01
+Exports of Goods and Services,,,1981-01-01
+Exports of Goods and Services,,,1982-01-01
+Exports of Goods and Services,,,1983-01-01
+Exports of Goods and Services,,,1984-01-01
+Exports of Goods and Services,,,1985-01-01
+Exports of Goods and Services,,,1986-01-01
+Exports of Goods and Services,,,1987-01-01
+Exports of Goods and Services,,,1988-01-01
+Exports of Goods and Services,,,1989-01-01
+Exports of Goods and Services,,,1990-01-01
+Exports of Goods and Services,,,1991-01-01
+Exports of Goods and Services,,,1992-01-01
+Exports of Goods and Services,,,1993-01-01
+Exports of Goods and Services,,,1994-01-01
+Exports of Goods and Services,,,1995-01-01
+Exports of Goods and Services,,,1996-01-01
+Exports of Goods and Services,,,1997-01-01
+Exports of Goods and Services,,,1998-01-01
+Exports of Goods and Services,,,1999-01-01
+Exports of Goods and Services,,,2000-01-01
+Exports of Goods and Services,,,2001-01-01
+Exports of Goods and Services,,,2002-01-01
+Exports of Goods and Services,,,2003-01-01
+Exports of Goods and Services,,,2004-01-01
+Exports of Goods and Services,,,2005-01-01
+Exports of Goods and Services,,,2006-01-01
+Exports of Goods and Services,,,2007-01-01
+Exports of Goods and Services,,,2008-01-01
+Exports of Goods and Services,,,2009-01-01
+Exports of Goods and Services,,,2010-01-01
+Exports of Goods and Services,,,2011-01-01
+Exports of Goods and Services,,,2012-01-01
+Exports of Goods and Services,,,2013-01-01
+Exports of Goods and Services,,,2014-01-01
+Exports of Goods and Services,,,2015-01-01
+Exports of Goods and Services,,,2016-01-01
+Exports of Goods and Services,,,2017-01-01
+Exports of Goods and Services,,,2018-01-01
+Exports of Goods and Services,,,2019-01-01
+Exports of Goods and Services,,,2020-01-01
+Exports of Goods and Services,,,2021-01-01
+Exports of Goods and Services,,,2022-01-01
+Exports of Goods and Services,,,2023-01-01
+Exports of Goods and Services,,,2024-01-01
+Exports of Goods and Services,,,2025-01-01
+Exports of Goods and Services,,,2026-01-01
+Exports of Goods and Services,,,2027-01-01
+Exports of Goods and Services,,,2028-01-01
+Exports of Goods and Services,,,2029-01-01
+"External Debt, Total",,,1980-01-01
+"External Debt, Total",,,1981-01-01
+"External Debt, Total",,,1982-01-01
+"External Debt, Total",,,1983-01-01
+"External Debt, Total",,,1984-01-01
+"External Debt, Total",,,1985-01-01
+"External Debt, Total",,,1986-01-01
+"External Debt, Total",,,1987-01-01
+"External Debt, Total",,,1988-01-01
+"External Debt, Total",,,1989-01-01
+"External Debt, Total",,,1990-01-01
+"External Debt, Total",,,1991-01-01
+"External Debt, Total",,,1992-01-01
+"External Debt, Total",,,1993-01-01
+"External Debt, Total",,,1994-01-01
+"External Debt, Total",,,1995-01-01
+"External Debt, Total",,,1996-01-01
+"External Debt, Total",,,1997-01-01
+"External Debt, Total",,,1998-01-01
+"External Debt, Total",,,1999-01-01
+"External Debt, Total",,,2000-01-01
+"External Debt, Total",,,2001-01-01
+"External Debt, Total",,,2002-01-01
+"External Debt, Total",,,2003-01-01
+"External Debt, Total",,,2004-01-01
+"External Debt, Total",,,2005-01-01
+"External Debt, Total",,,2006-01-01
+"External Debt, Total",,,2007-01-01
+"External Debt, Total",,,2008-01-01
+"External Debt, Total",,,2009-01-01
+"External Debt, Total",,,2010-01-01
+"External Debt, Total",,,2011-01-01
+"External Debt, Total",,,2012-01-01
+"External Debt, Total",,,2013-01-01
+"External Debt, Total",,,2014-01-01
+"External Debt, Total",,,2015-01-01
+"External Debt, Total",,,2016-01-01
+"External Debt, Total",,,2017-01-01
+"External Debt, Total",,,2018-01-01
+"External Debt, Total",,,2019-01-01
+"External Debt, Total",,,2020-01-01
+"External Debt, Total",,,2021-01-01
+"External Debt, Total",,,2022-01-01
+"External Debt, Total",,,2023-01-01
+"External Debt, Total",,,2024-01-01
+"External Debt, Total",,,2025-01-01
+"External Debt, Total",,,2026-01-01
+"External Debt, Total",,,2027-01-01
+"External Debt, Total",,,2028-01-01
+"External Debt, Total",,,2029-01-01
+"Gross Domestic Product, Current Prices",,11233.437,1980-01-01
+"Gross Domestic Product, Current Prices",,11527.625,1981-01-01
+"Gross Domestic Product, Current Prices",,11311.34,1982-01-01
+"Gross Domestic Product, Current Prices",,11612.474,1983-01-01
+"Gross Domestic Product, Current Prices",,12026.154,1984-01-01
+"Gross Domestic Product, Current Prices",,12554.164,1985-01-01
+"Gross Domestic Product, Current Prices",,14792.77,1986-01-01
+"Gross Domestic Product, Current Prices",,17029.555,1987-01-01
+"Gross Domestic Product, Current Prices",,19146.539,1988-01-01
+"Gross Domestic Product, Current Prices",,20145.497,1989-01-01
+"Gross Domestic Product, Current Prices",,22631.298,1990-01-01
+"Gross Domestic Product, Current Prices",,23656.84,1991-01-01
+"Gross Domestic Product, Current Prices",,25342.077,1992-01-01
+"Gross Domestic Product, Current Prices",,26066.282,1993-01-01
+"Gross Domestic Product, Current Prices",,28022.937,1994-01-01
+"Gross Domestic Product, Current Prices",,31239.414,1995-01-01
+"Gross Domestic Product, Current Prices",,32108.497,1996-01-01
+"Gross Domestic Product, Current Prices",,32025.608,1997-01-01
+"Gross Domestic Product, Current Prices",,31876.968,1998-01-01
+"Gross Domestic Product, Current Prices",,33004.346,1999-01-01
+"Gross Domestic Product, Current Prices",,34097.943,2000-01-01
+"Gross Domestic Product, Current Prices",,33852.555,2001-01-01
+"Gross Domestic Product, Current Prices",,34963.741,2002-01-01
+"Gross Domestic Product, Current Prices",,39255.109,2003-01-01
+"Gross Domestic Product, Current Prices",,44184.228,2004-01-01
+"Gross Domestic Product, Current Prices",,47856.72,2005-01-01
+"Gross Domestic Product, Current Prices",,51832.967,2006-01-01
+"Gross Domestic Product, Current Prices",,58504.905,2007-01-01
+"Gross Domestic Product, Current Prices",,64213.742,2008-01-01
+"Gross Domestic Product, Current Prices",,60811.696,2009-01-01
+"Gross Domestic Product, Current Prices",,66527.118,2010-01-01
+"Gross Domestic Product, Current Prices",,73854.539,2011-01-01
+"Gross Domestic Product, Current Prices",,75305.668,2012-01-01
+"Gross Domestic Product, Current Prices",,77503.503,2013-01-01
+"Gross Domestic Product, Current Prices",,79596.182,2014-01-01
+"Gross Domestic Product, Current Prices",,75128.93,2015-01-01
+"Gross Domestic Product, Current Prices",,76395.062,2016-01-01
+"Gross Domestic Product, Current Prices",,81255.999,2017-01-01
+"Gross Domestic Product, Current Prices",,86246.426,2018-01-01
+"Gross Domestic Product, Current Prices",,87494.083,2019-01-01
+"Gross Domestic Product, Current Prices",,85257.581,2020-01-01
+"Gross Domestic Product, Current Prices",,96989.561,2021-01-01
+"Gross Domestic Product, Current Prices",,100662.948,2022-01-01
+"Gross Domestic Product, Current Prices",,104791.082,2023-01-01
+"Gross Domestic Product, Current Prices",,109529.216,2024-01-01
+"Gross Domestic Product, Current Prices",,114828.025,2025-01-01
+"Gross Domestic Product, Current Prices",,120583.405,2026-01-01
+"Gross Domestic Product, Current Prices",,126507.755,2027-01-01
+"Gross Domestic Product, Current Prices",,132732.857,2028-01-01
+"Gross Domestic Product, Current Prices",,139048.771,2029-01-01
+Crude Oil Prices,,37.919,1980-01-01
+Crude Oil Prices,,36.949,1981-01-01
+Crude Oil Prices,,32.948,1982-01-01
+Crude Oil Prices,,30.113,1983-01-01
+Crude Oil Prices,,29.061,1984-01-01
+Crude Oil Prices,,27.806,1985-01-01
+Crude Oil Prices,,14.438,1986-01-01
+Crude Oil Prices,,18.17,1987-01-01
+Crude Oil Prices,,14.734,1988-01-01
+Crude Oil Prices,,17.847,1989-01-01
+Crude Oil Prices,,22.895,1990-01-01
+Crude Oil Prices,,19.385,1991-01-01
+Crude Oil Prices,,19.039,1992-01-01
+Crude Oil Prices,,16.841,1993-01-01
+Crude Oil Prices,,15.944,1994-01-01
+Crude Oil Prices,,17.247,1995-01-01
+Crude Oil Prices,,20.495,1996-01-01
+Crude Oil Prices,,19.352,1997-01-01
+Crude Oil Prices,,13.236,1998-01-01
+Crude Oil Prices,,18.179,1999-01-01
+Crude Oil Prices,,28.471,2000-01-01
+Crude Oil Prices,,24.49,2001-01-01
+Crude Oil Prices,,25.001,2002-01-01
+Crude Oil Prices,,28.909,2003-01-01
+Crude Oil Prices,,37.807,2004-01-01
+Crude Oil Prices,,53.506,2005-01-01
+Crude Oil Prices,,64.402,2006-01-01
+Crude Oil Prices,,71.189,2007-01-01
+Crude Oil Prices,,96.767,2008-01-01
+Crude Oil Prices,,61.501,2009-01-01
+Crude Oil Prices,,79.144,2010-01-01
+Crude Oil Prices,,104.069,2011-01-01
+Crude Oil Prices,,105.097,2012-01-01
+Crude Oil Prices,,104.172,2013-01-01
+Crude Oil Prices,,96.326,2014-01-01
+Crude Oil Prices,,50.912,2015-01-01
+Crude Oil Prices,,43.264,2016-01-01
+Crude Oil Prices,,52.978,2017-01-01
+Crude Oil Prices,,68.533,2018-01-01
+Crude Oil Prices,,61.432,2019-01-01
+Crude Oil Prices,,41.765,2020-01-01
+Crude Oil Prices,,69.25,2021-01-01
+Crude Oil Prices,,96.362,2022-01-01
+Crude Oil Prices,,80.595,2023-01-01
+Crude Oil Prices,,78.609,2024-01-01
+Crude Oil Prices,,73.68,2025-01-01
+Crude Oil Prices,,70.561,2026-01-01
+Crude Oil Prices,,68.693,2027-01-01
+Crude Oil Prices,,67.776,2028-01-01
+Crude Oil Prices,,67.524,2029-01-01
+Political Stability Index IRN,,-0.324623703956604,1996-01-01
+Political Stability Index IRN,,-0.693391084671021,1998-01-01
+Political Stability Index IRN,,-0.727548360824585,2000-01-01
+Political Stability Index IRN,,-0.773440599441528,2002-01-01
+Political Stability Index IRN,,-0.779733180999756,2003-01-01
+Political Stability Index IRN,,-0.761824309825897,2004-01-01
+Political Stability Index IRN,,-0.782738864421844,2005-01-01
+Political Stability Index IRN,,-1.04084002971649,2006-01-01
+Political Stability Index IRN,,-0.931640446186066,2007-01-01
+Political Stability Index IRN,,-0.939874708652496,2008-01-01
+Political Stability Index IRN,,-1.56424200534821,2009-01-01
+Political Stability Index IRN,,-1.63059186935425,2010-01-01
+Political Stability Index IRN,,-1.4217677116394,2011-01-01
+Political Stability Index IRN,,-1.32392609119415,2012-01-01
+Political Stability Index IRN,,-1.24968659877777,2013-01-01
+Political Stability Index IRN,,-0.874987661838531,2014-01-01
+Political Stability Index IRN,,-0.924846887588501,2015-01-01
+Political Stability Index IRN,,-0.81402063369751,2016-01-01
+Political Stability Index IRN,,-0.933828711509705,2017-01-01
+Political Stability Index IRN,,-1.34214425086975,2018-01-01
+Political Stability Index IRN,,-1.71146535873413,2019-01-01
+Political Stability Index IRN,,-1.69916200637817,2020-01-01
+Political Stability Index IRN,,-1.58438456058502,2021-01-01
+Political Stability Index IRN,,-1.58643913269043,2022-01-01
+Political Stability Index IRQ,,-1.81737661361694,1996-01-01
+Political Stability Index IRQ,,-1.53380000591278,1998-01-01
+Political Stability Index IRQ,,-1.73264276981354,2000-01-01
+Political Stability Index IRQ,,-1.60128676891327,2002-01-01
+Political Stability Index IRQ,,-2.39324522018433,2003-01-01
+Political Stability Index IRQ,,-3.18035173416138,2004-01-01
+Political Stability Index IRQ,,-2.68864846229553,2005-01-01
+Political Stability Index IRQ,,-2.82640218734741,2006-01-01
+Political Stability Index IRQ,,-2.77105069160461,2007-01-01
+Political Stability Index IRQ,,-2.46689653396606,2008-01-01
+Political Stability Index IRQ,,-2.17470788955688,2009-01-01
+Political Stability Index IRQ,,-2.23926711082459,2010-01-01
+Political Stability Index IRQ,,-1.84698355197906,2011-01-01
+Political Stability Index IRQ,,-1.93405020236969,2012-01-01
+Political Stability Index IRQ,,-2.01139044761658,2013-01-01
+Political Stability Index IRQ,,-2.48033785820007,2014-01-01
+Political Stability Index IRQ,,-2.25077962875366,2015-01-01
+Political Stability Index IRQ,,-2.30333304405212,2016-01-01
+Political Stability Index IRQ,,-2.29594826698303,2017-01-01
+Political Stability Index IRQ,,-2.52095818519592,2018-01-01
+Political Stability Index IRQ,,-2.6091480255127,2019-01-01
+Political Stability Index IRQ,,-2.47469043731689,2020-01-01
+Political Stability Index IRQ,,-2.38455939292908,2021-01-01
+Political Stability Index IRQ,,-2.47392463684082,2022-01-01
+Political Stability Index KWT,,0.170835971832275,1996-01-01
+Political Stability Index KWT,,0.455113381147385,1998-01-01
+Political Stability Index KWT,,0.752232670783997,2000-01-01
+Political Stability Index KWT,,-0.146744310855865,2002-01-01
+Political Stability Index KWT,,0.294286906719208,2003-01-01
+Political Stability Index KWT,,0.345240026712418,2004-01-01
+Political Stability Index KWT,,0.253690272569656,2005-01-01
+Political Stability Index KWT,,0.412733107805252,2006-01-01
+Political Stability Index KWT,,0.62064391374588,2007-01-01
+Political Stability Index KWT,,0.501767992973328,2008-01-01
+Political Stability Index KWT,,0.353407442569733,2009-01-01
+Political Stability Index KWT,,0.451988816261292,2010-01-01
+Political Stability Index KWT,,0.311102718114853,2011-01-01
+Political Stability Index KWT,,0.203606218099594,2012-01-01
+Political Stability Index KWT,,0.166055589914322,2013-01-01
+Political Stability Index KWT,,0.149006545543671,2014-01-01
+Political Stability Index KWT,,-0.219549298286438,2015-01-01
+Political Stability Index KWT,,-0.0565007105469704,2016-01-01
+Political Stability Index KWT,,-0.0512296371161938,2017-01-01
+Political Stability Index KWT,,0.0905337333679199,2018-01-01
+Political Stability Index KWT,,0.175113588571548,2019-01-01
+Political Stability Index KWT,,0.225190043449402,2020-01-01
+Political Stability Index KWT,,0.26298251748085,2021-01-01
+Political Stability Index KWT,,0.28121742606163,2022-01-01
+Political Stability Index QAT,,0.361694604158401,1996-01-01
+Political Stability Index QAT,,1.0588550567627,1998-01-01
+Political Stability Index QAT,,1.15730142593384,2000-01-01
+Political Stability Index QAT,,0.831208944320679,2002-01-01
+Political Stability Index QAT,,1.18648135662079,2003-01-01
+Political Stability Index QAT,,1.12390494346619,2004-01-01
+Political Stability Index QAT,,1.0276792049408,2005-01-01
+Political Stability Index QAT,,0.926921546459198,2006-01-01
+Political Stability Index QAT,,0.952527701854706,2007-01-01
+Political Stability Index QAT,,1.11487662792206,2008-01-01
+Political Stability Index QAT,,1.22328507900238,2009-01-01
+Political Stability Index QAT,,1.15385591983795,2010-01-01
+Political Stability Index QAT,,1.17473101615906,2011-01-01
+Political Stability Index QAT,,1.22359883785248,2012-01-01
+Political Stability Index QAT,,1.21254646778107,2013-01-01
+Political Stability Index QAT,,0.977457761764526,2014-01-01
+Political Stability Index QAT,,0.983597457408905,2015-01-01
+Political Stability Index QAT,,0.884123742580414,2016-01-01
+Political Stability Index QAT,,0.647981882095337,2017-01-01
+Political Stability Index QAT,,0.649283885955811,2018-01-01
+Political Stability Index QAT,,0.68427562713623,2019-01-01
+Political Stability Index QAT,,0.66954380273819,2020-01-01
+Political Stability Index QAT,,0.833261430263519,2021-01-01
+Political Stability Index QAT,,0.958558142185211,2022-01-01
+Political Stability Index SAU,,-0.189457833766937,1996-01-01
+Political Stability Index SAU,,0.110229097306728,1998-01-01
+Political Stability Index SAU,,0.227821603417397,2000-01-01
+Political Stability Index SAU,,0.00242432416416705,2002-01-01
+Political Stability Index SAU,,0.141017645597458,2003-01-01
+Political Stability Index SAU,,-0.65463250875473,2004-01-01
+Political Stability Index SAU,,-0.240614011883736,2005-01-01
+Political Stability Index SAU,,-0.522423803806305,2006-01-01
+Political Stability Index SAU,,-0.467305243015289,2007-01-01
+Political Stability Index SAU,,-0.336524426937103,2008-01-01
+Political Stability Index SAU,,-0.49253523349762,2009-01-01
+Political Stability Index SAU,,-0.226726979017258,2010-01-01
+Political Stability Index SAU,,-0.464799642562866,2011-01-01
+Political Stability Index SAU,,-0.480688244104385,2012-01-01
+Political Stability Index SAU,,-0.431784123182297,2013-01-01
+Political Stability Index SAU,,-0.285844653844833,2014-01-01
+Political Stability Index SAU,,-0.634387195110321,2015-01-01
+Political Stability Index SAU,,-0.472771108150482,2016-01-01
+Political Stability Index SAU,,-0.649576365947723,2017-01-01
+Political Stability Index SAU,,-0.660840630531311,2018-01-01
+Political Stability Index SAU,,-0.623455822467804,2019-01-01
+Political Stability Index SAU,,-0.650508463382721,2020-01-01
+Political Stability Index SAU,,-0.591131269931793,2021-01-01
+Political Stability Index SAU,,-0.362989008426666,2022-01-01
+Political Stability Index ARE,,0.964015007019043,1996-01-01
+Political Stability Index ARE,,0.871309280395508,1998-01-01
+Political Stability Index ARE,,0.975434422492981,2000-01-01
+Political Stability Index ARE,,0.937275111675262,2002-01-01
+Political Stability Index ARE,,0.994650185108185,2003-01-01
+Political Stability Index ARE,,0.768757998943329,2004-01-01
+Political Stability Index ARE,,0.875413298606873,2005-01-01
+Political Stability Index ARE,,0.923421084880829,2006-01-01
+Political Stability Index ARE,,0.975391387939453,2007-01-01
+Political Stability Index ARE,,0.696017920970917,2008-01-01
+Political Stability Index ARE,,0.919041454792023,2009-01-01
+Political Stability Index ARE,,0.801757872104645,2010-01-01
+Political Stability Index ARE,,0.912175714969635,2011-01-01
+Political Stability Index ARE,,0.863251447677612,2012-01-01
+Political Stability Index ARE,,0.894792199134827,2013-01-01
+Political Stability Index ARE,,0.7689089179039,2014-01-01
+Political Stability Index ARE,,0.748049259185791,2015-01-01
+Political Stability Index ARE,,0.549646139144897,2016-01-01
+Political Stability Index ARE,,0.601948618888855,2017-01-01
+Political Stability Index ARE,,0.689086735248566,2018-01-01
+Political Stability Index ARE,,0.667445123195648,2019-01-01
+Political Stability Index ARE,,0.592546582221985,2020-01-01
+Political Stability Index ARE,,0.597461223602295,2021-01-01
+Political Stability Index ARE,,0.700785338878632,2022-01-01
+Political Stability Index USA,,0.935005784034729,1996-01-01
+Political Stability Index USA,,0.879612982273102,1998-01-01
+Political Stability Index USA,,1.08280909061432,2000-01-01
+Political Stability Index USA,,0.285476922988892,2002-01-01
+Political Stability Index USA,,0.0804403498768806,2003-01-01
+Political Stability Index USA,,-0.233039826154709,2004-01-01
+Political Stability Index USA,,-0.0605432577431202,2005-01-01
+Political Stability Index USA,,0.49083548784256,2006-01-01
+Political Stability Index USA,,0.374478042125702,2007-01-01
+Political Stability Index USA,,0.582659542560577,2008-01-01
+Political Stability Index USA,,0.447313606739044,2009-01-01
+Political Stability Index USA,,0.438403934240341,2010-01-01
+Political Stability Index USA,,0.591247260570526,2011-01-01
+Political Stability Index USA,,0.632442116737366,2012-01-01
+Political Stability Index USA,,0.643072605133057,2013-01-01
+Political Stability Index USA,,0.582419633865356,2014-01-01
+Political Stability Index USA,,0.662890195846558,2015-01-01
+Political Stability Index USA,,0.385635316371918,2016-01-01
+Political Stability Index USA,,0.26220178604126,2017-01-01
+Political Stability Index USA,,0.386042565107346,2018-01-01
+Political Stability Index USA,,0.117876663804054,2019-01-01
+Political Stability Index USA,,-0.0269290637224913,2020-01-01
+Political Stability Index USA,,-0.0148778762668371,2021-01-01
+Political Stability Index USA,,-0.0360050275921822,2022-01-01
+Political Stability Index RUS,,-1.17785394191742,1996-01-01
+Political Stability Index RUS,,-1.08974099159241,1998-01-01
+Political Stability Index RUS,,-1.39924204349518,2000-01-01
+Political Stability Index RUS,,-0.724512279033661,2002-01-01
+Political Stability Index RUS,,-1.19315183162689,2003-01-01
+Political Stability Index RUS,,-1.51459443569183,2004-01-01
+Political Stability Index RUS,,-1.2677013874054,2005-01-01
+Political Stability Index RUS,,-0.908794343471527,2006-01-01
+Political Stability Index RUS,,-0.863382518291473,2007-01-01
+Political Stability Index RUS,,-0.749933898448944,2008-01-01
+Political Stability Index RUS,,-0.969926595687866,2009-01-01
+Political Stability Index RUS,,-0.929458737373352,2010-01-01
+Political Stability Index RUS,,-0.998262107372284,2011-01-01
+Political Stability Index RUS,,-0.817712664604187,2012-01-01
+Political Stability Index RUS,,-0.736093640327454,2013-01-01
+Political Stability Index RUS,,-0.943617463111877,2014-01-01
+Political Stability Index RUS,,-1.03222346305847,2015-01-01
+Political Stability Index RUS,,-0.947688162326813,2016-01-01
+Political Stability Index RUS,,-0.642759621143341,2017-01-01
+Political Stability Index RUS,,-0.538375675678253,2018-01-01
+Political Stability Index RUS,,-0.551099121570587,2019-01-01
+Political Stability Index RUS,,-0.667409420013428,2020-01-01
+Political Stability Index RUS,,-0.707901835441589,2021-01-01
+Political Stability Index RUS,,-0.918995440006256,2022-01-01
+Political Stability Index CAN,,1.23405170440674,1996-01-01
+Political Stability Index CAN,,0.950881242752075,1998-01-01
+Political Stability Index CAN,,1.16752684116364,2000-01-01
+Political Stability Index CAN,,1.21803176403046,2002-01-01
+Political Stability Index CAN,,1.05307674407959,2003-01-01
+Political Stability Index CAN,,0.87644749879837,2004-01-01
+Political Stability Index CAN,,0.828725039958954,2005-01-01
+Political Stability Index CAN,,1.03495657444,2006-01-01
+Political Stability Index CAN,,1.00701069831848,2007-01-01
+Political Stability Index CAN,,1.0413726568222,2008-01-01
+Political Stability Index CAN,,1.12707591056824,2009-01-01
+Political Stability Index CAN,,0.936318218708038,2010-01-01
+Political Stability Index CAN,,1.07717573642731,2011-01-01
+Political Stability Index CAN,,1.11301624774933,2012-01-01
+Political Stability Index CAN,,1.06142175197601,2013-01-01
+Political Stability Index CAN,,1.17550384998322,2014-01-01
+Political Stability Index CAN,,1.26233685016632,2015-01-01
+Political Stability Index CAN,,1.24041163921356,2016-01-01
+Political Stability Index CAN,,1.08967959880829,2017-01-01
+Political Stability Index CAN,,0.963774383068085,2018-01-01
+Political Stability Index CAN,,0.994817912578583,2019-01-01
+Political Stability Index CAN,,1.01310467720032,2020-01-01
+Political Stability Index CAN,,0.962195992469788,2021-01-01
+Political Stability Index CAN,,0.772814035415649,2022-01-01
+Political Stability Index CHN,,-0.0978488251566887,1996-01-01
+Political Stability Index CHN,,-0.394105225801468,1998-01-01
+Political Stability Index CHN,,-0.20991687476635,2000-01-01
+Political Stability Index CHN,,-0.327627182006836,2002-01-01
+Political Stability Index CHN,,-0.56535792350769,2003-01-01
+Political Stability Index CHN,,-0.39068067073822,2004-01-01
+Political Stability Index CHN,,-0.501756608486176,2005-01-01
+Political Stability Index CHN,,-0.540030121803284,2006-01-01
+Political Stability Index CHN,,-0.500553727149963,2007-01-01
+Political Stability Index CHN,,-0.49308842420578,2008-01-01
+Political Stability Index CHN,,-0.451781332492828,2009-01-01
+Political Stability Index CHN,,-0.65706068277359,2010-01-01
+Political Stability Index CHN,,-0.602054834365845,2011-01-01
+Political Stability Index CHN,,-0.538782060146332,2012-01-01
+Political Stability Index CHN,,-0.543789923191071,2013-01-01
+Political Stability Index CHN,,-0.522584021091461,2014-01-01
+Political Stability Index CHN,,-0.552559673786163,2015-01-01
+Political Stability Index CHN,,-0.502221345901489,2016-01-01
+Political Stability Index CHN,,-0.232558473944664,2017-01-01
+Political Stability Index CHN,,-0.298641502857208,2018-01-01
+Political Stability Index CHN,,-0.259810864925385,2019-01-01
+Political Stability Index CHN,,-0.473098784685135,2020-01-01
+Political Stability Index CHN,,-0.51672887802124,2021-01-01
+Political Stability Index CHN,,-0.441073626279831,2022-01-01
+Political Stability Index MEX,,-0.925459146499634,1996-01-01
+Political Stability Index MEX,,-0.423062264919281,1998-01-01
+Political Stability Index MEX,,-0.200209870934486,2000-01-01
+Political Stability Index MEX,,-0.0583082623779774,2002-01-01
+Political Stability Index MEX,,-0.11687808483839,2003-01-01
+Political Stability Index MEX,,-0.214082449674606,2004-01-01
+Political Stability Index MEX,,-0.445820868015289,2005-01-01
+Political Stability Index MEX,,-0.636888444423676,2006-01-01
+Political Stability Index MEX,,-0.729851603507996,2007-01-01
+Political Stability Index MEX,,-0.804012358188629,2008-01-01
+Political Stability Index MEX,,-0.686627805233002,2009-01-01
+Political Stability Index MEX,,-0.726463437080383,2010-01-01
+Political Stability Index MEX,,-0.667768597602844,2011-01-01
+Political Stability Index MEX,,-0.662454187870026,2012-01-01
+Political Stability Index MEX,,-0.714223802089691,2013-01-01
+Political Stability Index MEX,,-0.853918790817261,2014-01-01
+Political Stability Index MEX,,-0.801780104637146,2015-01-01
+Political Stability Index MEX,,-0.633718132972717,2016-01-01
+Political Stability Index MEX,,-0.806073427200317,2017-01-01
+Political Stability Index MEX,,-0.673981010913849,2018-01-01
+Political Stability Index MEX,,-0.843628823757172,2019-01-01
+Political Stability Index MEX,,-0.791369318962097,2020-01-01
+Political Stability Index MEX,,-0.688360929489136,2021-01-01
+Political Stability Index MEX,,-0.691959738731384,2022-01-01
+Political Stability Index VEN,,-0.584048211574554,1996-01-01
+Political Stability Index VEN,,-0.537716507911682,1998-01-01
+Political Stability Index VEN,,-0.758916974067688,2000-01-01
+Political Stability Index VEN,,-1.31789720058441,2002-01-01
+Political Stability Index VEN,,-1.28644466400146,2003-01-01
+Political Stability Index VEN,,-1.3915855884552,2004-01-01
+Political Stability Index VEN,,-1.24433243274689,2005-01-01
+Political Stability Index VEN,,-1.25286757946014,2006-01-01
+Political Stability Index VEN,,-1.2296701669693,2007-01-01
+Political Stability Index VEN,,-1.31243884563446,2008-01-01
+Political Stability Index VEN,,-1.27778947353363,2009-01-01
+Political Stability Index VEN,,-1.25623667240143,2010-01-01
+Political Stability Index VEN,,-1.09404599666595,2011-01-01
+Political Stability Index VEN,,-1.02713263034821,2012-01-01
+Political Stability Index VEN,,-1.07763242721558,2013-01-01
+Political Stability Index VEN,,-0.852002203464508,2014-01-01
+Political Stability Index VEN,,-0.971670269966125,2015-01-01
+Political Stability Index VEN,,-1.0229766368866,2016-01-01
+Political Stability Index VEN,,-1.25151371955872,2017-01-01
+Political Stability Index VEN,,-1.35144245624542,2018-01-01
+Political Stability Index VEN,,-1.53918147087097,2019-01-01
+Political Stability Index VEN,,-1.55198740959167,2020-01-01
+Political Stability Index VEN,,-1.45388782024384,2021-01-01
+Political Stability Index VEN,,-1.25646221637726,2022-01-01
+Political Stability Index BRA,,-0.220460131764412,1996-01-01
+Political Stability Index BRA,,-0.339505791664124,1998-01-01
+Political Stability Index BRA,,0.18410162627697,2000-01-01
+Political Stability Index BRA,,0.327800273895264,2002-01-01
+Political Stability Index BRA,,0.00421393429860473,2003-01-01
+Political Stability Index BRA,,-0.275992810726166,2004-01-01
+Political Stability Index BRA,,-0.263379752635956,2005-01-01
+Political Stability Index BRA,,-0.294911116361618,2006-01-01
+Political Stability Index BRA,,-0.3579480946064,2007-01-01
+Political Stability Index BRA,,-0.313424706459045,2008-01-01
+Political Stability Index BRA,,0.163664221763611,2009-01-01
+Political Stability Index BRA,,0.0134759107604623,2010-01-01
+Political Stability Index BRA,,-0.132575422525406,2011-01-01
+Political Stability Index BRA,,0.0459616407752037,2012-01-01
+Political Stability Index BRA,,-0.258553296327591,2013-01-01
+Political Stability Index BRA,,-0.070290133357048,2014-01-01
+Political Stability Index BRA,,-0.331864446401596,2015-01-01
+Political Stability Index BRA,,-0.381035059690475,2016-01-01
+Political Stability Index BRA,,-0.480093955993652,2017-01-01
+Political Stability Index BRA,,-0.459640145301819,2018-01-01
+Political Stability Index BRA,,-0.714393615722656,2019-01-01
+Political Stability Index BRA,,-0.445607244968414,2020-01-01
+Political Stability Index BRA,,-0.419696539640427,2021-01-01
+Political Stability Index BRA,,-0.331465899944305,2022-01-01
+Political Stability Index NGA,,-1.05690824985504,1996-01-01
+Political Stability Index NGA,,-0.588243722915649,1998-01-01
+Political Stability Index NGA,,-1.45532631874084,2000-01-01
+Political Stability Index NGA,,-1.62632930278778,2002-01-01
+Political Stability Index NGA,,-1.63558828830719,2003-01-01
+Political Stability Index NGA,,-1.75441575050354,2004-01-01
+Political Stability Index NGA,,-1.6665004491806,2005-01-01
+Political Stability Index NGA,,-2.03407764434814,2006-01-01
+Political Stability Index NGA,,-2.01405644416809,2007-01-01
+Political Stability Index NGA,,-1.86071193218231,2008-01-01
+Political Stability Index NGA,,-1.99455380439758,2009-01-01
+Political Stability Index NGA,,-2.21112322807312,2010-01-01
+Political Stability Index NGA,,-1.95645451545715,2011-01-01
+Political Stability Index NGA,,-2.04207372665405,2012-01-01
+Political Stability Index NGA,,-2.08847832679749,2013-01-01
+Political Stability Index NGA,,-2.1302764415741,2014-01-01
+Political Stability Index NGA,,-1.92170512676239,2015-01-01
+Political Stability Index NGA,,-1.87388896942139,2016-01-01
+Political Stability Index NGA,,-1.99671685695648,2017-01-01
+Political Stability Index NGA,,-2.09741425514221,2018-01-01
+Political Stability Index NGA,,-1.93307113647461,2019-01-01
+Political Stability Index NGA,,-1.89196145534515,2020-01-01
+Political Stability Index NGA,,-1.78729927539825,2021-01-01
+Political Stability Index NGA,,-1.79814147949219,2022-01-01
+Political Stability Index NLD,,1.52612578868866,1996-01-01
+Political Stability Index NLD,,1.59480345249176,1998-01-01
+Political Stability Index NLD,,1.75868117809296,2000-01-01
+Political Stability Index NLD,,1.30267989635468,2002-01-01
+Political Stability Index NLD,,1.16180562973022,2003-01-01
+Political Stability Index NLD,,1.01623916625977,2004-01-01
+Political Stability Index NLD,,0.98810088634491,2005-01-01
+Political Stability Index NLD,,0.902736186981201,2006-01-01
+Political Stability Index NLD,,0.778468787670136,2007-01-01
+Political Stability Index NLD,,0.86355197429657,2008-01-01
+Political Stability Index NLD,,0.945019245147705,2009-01-01
+Political Stability Index NLD,,0.940750122070313,2010-01-01
+Political Stability Index NLD,,1.11363077163696,2011-01-01
+Political Stability Index NLD,,1.18746471405029,2012-01-01
+Political Stability Index NLD,,1.14381539821625,2013-01-01
+Political Stability Index NLD,,1.04511535167694,2014-01-01
+Political Stability Index NLD,,0.912540197372437,2015-01-01
+Political Stability Index NLD,,0.896933197975159,2016-01-01
+Political Stability Index NLD,,0.907122313976288,2017-01-01
+Political Stability Index NLD,,0.838097333908081,2018-01-01
+Political Stability Index NLD,,0.821221172809601,2019-01-01
+Political Stability Index NLD,,0.830863893032074,2020-01-01
+Political Stability Index NLD,,0.892923951148987,2021-01-01
+Political Stability Index NLD,,0.717304825782776,2022-01-01
+Political Stability Index NOR,,1.45682156085968,1996-01-01
+Political Stability Index NOR,,1.43966126441956,1998-01-01
+Political Stability Index NOR,,1.533282995224,2000-01-01
+Political Stability Index NOR,,1.60834610462189,2002-01-01
+Political Stability Index NOR,,1.20455622673035,2003-01-01
+Political Stability Index NOR,,1.19661831855774,2004-01-01
+Political Stability Index NOR,,1.29527723789215,2005-01-01
+Political Stability Index NOR,,1.25270569324493,2006-01-01
+Political Stability Index NOR,,1.14555251598358,2007-01-01
+Political Stability Index NOR,,1.28543448448181,2008-01-01
+Political Stability Index NOR,,1.27653253078461,2009-01-01
+Political Stability Index NOR,,1.33231151103973,2010-01-01
+Political Stability Index NOR,,1.33797693252563,2011-01-01
+Political Stability Index NOR,,1.32746982574463,2012-01-01
+Political Stability Index NOR,,1.3520919084549,2013-01-01
+Political Stability Index NOR,,1.11995851993561,2014-01-01
+Political Stability Index NOR,,1.14562010765076,2015-01-01
+Political Stability Index NOR,,1.18162095546722,2016-01-01
+Political Stability Index NOR,,1.15070021152496,2017-01-01
+Political Stability Index NOR,,1.12063598632813,2018-01-01
+Political Stability Index NOR,,1.14198648929596,2019-01-01
+Political Stability Index NOR,,1.22151875495911,2020-01-01
+Political Stability Index NOR,,1.08847510814667,2021-01-01
+Political Stability Index NOR,,0.860958337783813,2022-01-01
+Political Stability Index KAZ,,-0.367461204528809,1996-01-01
+Political Stability Index KAZ,,0.194383829832077,1998-01-01
+Political Stability Index KAZ,,0.0900903418660164,2000-01-01
+Political Stability Index KAZ,,0.358549177646637,2002-01-01
+Political Stability Index KAZ,,0.356259912252426,2003-01-01
+Political Stability Index KAZ,,0.0703879743814468,2004-01-01
+Political Stability Index KAZ,,0.190631836652756,2005-01-01
+Political Stability Index KAZ,,0.207937806844711,2006-01-01
+Political Stability Index KAZ,,0.647996783256531,2007-01-01
+Political Stability Index KAZ,,0.626638472080231,2008-01-01
+Political Stability Index KAZ,,0.776816248893738,2009-01-01
+Political Stability Index KAZ,,0.52297180891037,2010-01-01
+Political Stability Index KAZ,,-0.338570564985275,2011-01-01
+Political Stability Index KAZ,,-0.408455014228821,2012-01-01
+Political Stability Index KAZ,,-0.402473896741867,2013-01-01
+Political Stability Index KAZ,,0.0360181555151939,2014-01-01
+Political Stability Index KAZ,,-0.0383530743420124,2015-01-01
+Political Stability Index KAZ,,0.00146297342143953,2016-01-01
+Political Stability Index KAZ,,0.0243722945451736,2017-01-01
+Political Stability Index KAZ,,-0.0526988133788109,2018-01-01
+Political Stability Index KAZ,,-0.167979881167412,2019-01-01
+Political Stability Index KAZ,,-0.257630288600922,2020-01-01
+Political Stability Index KAZ,,-0.231327518820763,2021-01-01
+Political Stability Index KAZ,,-0.356833428144455,2022-01-01
+Political Stability Index AGO,,-2.06191730499268,1996-01-01
+Political Stability Index AGO,,-2.31805849075317,1998-01-01
+Political Stability Index AGO,,-2.03817391395569,2000-01-01
+Political Stability Index AGO,,-1.5761798620224,2002-01-01
+Political Stability Index AGO,,-1.0073858499527,2003-01-01
+Political Stability Index AGO,,-1.0631206035614,2004-01-01
+Political Stability Index AGO,,-0.885178327560425,2005-01-01
+Political Stability Index AGO,,-0.539453446865082,2006-01-01
+Political Stability Index AGO,,-0.666658759117126,2007-01-01
+Political Stability Index AGO,,-0.361787378787994,2008-01-01
+Political Stability Index AGO,,-0.34759184718132,2009-01-01
+Political Stability Index AGO,,-0.226182341575623,2010-01-01
+Political Stability Index AGO,,-0.369237810373306,2011-01-01
+Political Stability Index AGO,,-0.389322549104691,2012-01-01
+Political Stability Index AGO,,-0.39123347401619,2013-01-01
+Political Stability Index AGO,,-0.333232045173645,2014-01-01
+Political Stability Index AGO,,-0.50538581609726,2015-01-01
+Political Stability Index AGO,,-0.321580082178116,2016-01-01
+Political Stability Index AGO,,-0.38913482427597,2017-01-01
+Political Stability Index AGO,,-0.347750902175903,2018-01-01
+Political Stability Index AGO,,-0.370094686746597,2019-01-01
+Political Stability Index AGO,,-0.600726008415222,2020-01-01
+Political Stability Index AGO,,-0.709369480609894,2021-01-01
+Political Stability Index AGO,,-0.646240890026093,2022-01-01
+Political Stability Index DZA,,-1.78331053256989,1996-01-01
+Political Stability Index DZA,,-1.87890470027924,1998-01-01
+Political Stability Index DZA,,-1.43257737159729,2000-01-01
+Political Stability Index DZA,,-1.63456511497498,2002-01-01
+Political Stability Index DZA,,-1.75440907478333,2003-01-01
+Political Stability Index DZA,,-1.35918843746185,2004-01-01
+Political Stability Index DZA,,-0.913666009902954,2005-01-01
+Political Stability Index DZA,,-1.1264134645462,2006-01-01
+Political Stability Index DZA,,-1.15058553218842,2007-01-01
+Political Stability Index DZA,,-1.09584629535675,2008-01-01
+Political Stability Index DZA,,-1.19691348075867,2009-01-01
+Political Stability Index DZA,,-1.25936758518219,2010-01-01
+Political Stability Index DZA,,-1.36056065559387,2011-01-01
+Political Stability Index DZA,,-1.32504332065582,2012-01-01
+Political Stability Index DZA,,-1.20237147808075,2013-01-01
+Political Stability Index DZA,,-1.19053518772125,2014-01-01
+Political Stability Index DZA,,-1.09078657627106,2015-01-01
+Political Stability Index DZA,,-1.09974193572998,2016-01-01
+Political Stability Index DZA,,-0.919614136219025,2017-01-01
+Political Stability Index DZA,,-0.842121779918671,2018-01-01
+Political Stability Index DZA,,-1.05582988262177,2019-01-01
+Political Stability Index DZA,,-0.847814321517944,2020-01-01
+Political Stability Index DZA,,-0.992437243461609,2021-01-01
+Political Stability Index DZA,,-0.741771519184113,2022-01-01
+Political Stability Index COL,,-1.64785850048065,1996-01-01
+Political Stability Index COL,,-1.79392170906067,1998-01-01
+Political Stability Index COL,,-1.60896074771881,2000-01-01
+Political Stability Index COL,,-1.95671439170837,2002-01-01
+Political Stability Index COL,,-2.37602686882019,2003-01-01
+Political Stability Index COL,,-2.27122640609741,2004-01-01
+Political Stability Index COL,,-2.05794286727905,2005-01-01
+Political Stability Index COL,,-1.90479671955109,2006-01-01
+Political Stability Index COL,,-1.80652725696564,2007-01-01
+Political Stability Index COL,,-1.85346233844757,2008-01-01
+Political Stability Index COL,,-1.83234584331512,2009-01-01
+Political Stability Index COL,,-1.53718483448029,2010-01-01
+Political Stability Index COL,,-1.28465557098389,2011-01-01
+Political Stability Index COL,,-1.40181040763855,2012-01-01
+Political Stability Index COL,,-1.29197180271149,2013-01-01
+Political Stability Index COL,,-1.11459410190582,2014-01-01
+Political Stability Index COL,,-1.0726637840271,2015-01-01
+Political Stability Index COL,,-0.887163996696472,2016-01-01
+Political Stability Index COL,,-0.779457688331604,2017-01-01
+Political Stability Index COL,,-0.806959629058838,2018-01-01
+Political Stability Index COL,,-0.979467272758484,2019-01-01
+Political Stability Index COL,,-0.701150596141815,2020-01-01
+Political Stability Index COL,,-0.954557538032532,2021-01-01
+Political Stability Index COL,,-0.641925930976868,2022-01-01
+Political Stability Index GAB,,0.125683024525642,1996-01-01
+Political Stability Index GAB,,0.32502093911171,1998-01-01
+Political Stability Index GAB,,0.640210628509521,2000-01-01
+Political Stability Index GAB,,0.410248696804047,2002-01-01
+Political Stability Index GAB,,0.29903855919838,2003-01-01
+Political Stability Index GAB,,0.408170908689499,2004-01-01
+Political Stability Index GAB,,0.325625747442245,2005-01-01
+Political Stability Index GAB,,0.220006227493286,2006-01-01
+Political Stability Index GAB,,0.30284458398819,2007-01-01
+Political Stability Index GAB,,0.261874705553055,2008-01-01
+Political Stability Index GAB,,0.140438765287399,2009-01-01
+Political Stability Index GAB,,0.299279242753983,2010-01-01
+Political Stability Index GAB,,0.384890913963318,2011-01-01
+Political Stability Index GAB,,0.293291419744492,2012-01-01
+Political Stability Index GAB,,0.330102741718292,2013-01-01
+Political Stability Index GAB,,0.149542808532715,2014-01-01
+Political Stability Index GAB,,0.0152472918853164,2015-01-01
+Political Stability Index GAB,,-0.110105983912945,2016-01-01
+Political Stability Index GAB,,-0.105891399085522,2017-01-01
+Political Stability Index GAB,,-0.257414042949677,2018-01-01
+Political Stability Index GAB,,-0.0751413851976395,2019-01-01
+Political Stability Index GAB,,-0.0658019334077835,2020-01-01
+Political Stability Index GAB,,-0.0757728293538094,2021-01-01
+Political Stability Index GAB,,0.0698951333761215,2022-01-01
+Political Stability Index OMN,,0.873983323574066,1996-01-01
+Political Stability Index OMN,,0.854953348636627,1998-01-01
+Political Stability Index OMN,,1.12142467498779,2000-01-01
+Political Stability Index OMN,,0.928577423095703,2002-01-01
+Political Stability Index OMN,,1.06150567531586,2003-01-01
+Political Stability Index OMN,,1.11596786975861,2004-01-01
+Political Stability Index OMN,,0.946494877338409,2005-01-01
+Political Stability Index OMN,,0.841323614120483,2006-01-01
+Political Stability Index OMN,,0.939814209938049,2007-01-01
+Political Stability Index OMN,,0.92218691110611,2008-01-01
+Political Stability Index OMN,,0.826832592487335,2009-01-01
+Political Stability Index OMN,,0.590241730213165,2010-01-01
+Political Stability Index OMN,,0.432440459728241,2011-01-01
+Political Stability Index OMN,,0.462077081203461,2012-01-01
+Political Stability Index OMN,,0.459530204534531,2013-01-01
+Political Stability Index OMN,,0.734907329082489,2014-01-01
+Political Stability Index OMN,,0.7780522108078,2015-01-01
+Political Stability Index OMN,,0.749765634536743,2016-01-01
+Political Stability Index OMN,,0.749311625957489,2017-01-01
+Political Stability Index OMN,,0.642036437988281,2018-01-01
+Political Stability Index OMN,,0.589168727397919,2019-01-01
+Political Stability Index OMN,,0.419728547334671,2020-01-01
+Political Stability Index OMN,,0.431887984275818,2021-01-01
+Political Stability Index OMN,,0.529911398887634,2022-01-01
+Political Stability Index EGY,,-0.526031970977783,1996-01-01
+Political Stability Index EGY,,-0.0207697190344334,1998-01-01
+Political Stability Index EGY,,0.0497975237667561,2000-01-01
+Political Stability Index EGY,,-0.414172112941742,2002-01-01
+Political Stability Index EGY,,-0.640924513339996,2003-01-01
+Political Stability Index EGY,,-0.822401702404022,2004-01-01
+Political Stability Index EGY,,-0.629358649253845,2005-01-01
+Political Stability Index EGY,,-0.837807655334473,2006-01-01
+Political Stability Index EGY,,-0.552382111549377,2007-01-01
+Political Stability Index EGY,,-0.510431706905365,2008-01-01
+Political Stability Index EGY,,-0.607227087020874,2009-01-01
+Political Stability Index EGY,,-0.898418307304382,2010-01-01
+Political Stability Index EGY,,-1.43705701828003,2011-01-01
+Political Stability Index EGY,,-1.43632972240448,2012-01-01
+Political Stability Index EGY,,-1.63883090019226,2013-01-01
+Political Stability Index EGY,,-1.63117659091949,2014-01-01
+Political Stability Index EGY,,-1.49933218955994,2015-01-01
+Political Stability Index EGY,,-1.43972682952881,2016-01-01
+Political Stability Index EGY,,-1.42964518070221,2017-01-01
+Political Stability Index EGY,,-1.18810069561005,2018-01-01
+Political Stability Index EGY,,-1.12460207939148,2019-01-01
+Political Stability Index EGY,,-1.18191170692444,2020-01-01
+Political Stability Index EGY,,-1.03284096717834,2021-01-01
+Political Stability Index EGY,,-1.02805662155151,2022-01-01
+Political Stability Index GNQ,,-0.131352260708809,1996-01-01
+Political Stability Index GNQ,,-0.0805978253483772,1998-01-01
+Political Stability Index GNQ,,-0.0350389443337917,2000-01-01
+Political Stability Index GNQ,,-0.514396369457245,2002-01-01
+Political Stability Index GNQ,,0.114630743861198,2003-01-01
+Political Stability Index GNQ,,-0.0594780258834362,2004-01-01
+Political Stability Index GNQ,,-0.386098802089691,2005-01-01
+Political Stability Index GNQ,,0.168790400028229,2006-01-01
+Political Stability Index GNQ,,0.256654739379883,2007-01-01
+Political Stability Index GNQ,,0.20754437148571,2008-01-01
+Political Stability Index GNQ,,0.373302400112152,2009-01-01
+Political Stability Index GNQ,,0.236128225922585,2010-01-01
+Political Stability Index GNQ,,0.150343805551529,2011-01-01
+Political Stability Index GNQ,,0.232703447341919,2012-01-01
+Political Stability Index GNQ,,0.120355181396008,2013-01-01
+Political Stability Index GNQ,,-0.374146550893784,2014-01-01
+Political Stability Index GNQ,,-0.207799196243286,2015-01-01
+Political Stability Index GNQ,,-0.146742969751358,2016-01-01
+Political Stability Index GNQ,,-0.172020316123962,2017-01-01
+Political Stability Index GNQ,,-0.0902423709630966,2018-01-01
+Political Stability Index GNQ,,-0.147936090826988,2019-01-01
+Political Stability Index GNQ,,-0.221582889556885,2020-01-01
+Political Stability Index GNQ,,-0.202780559659004,2021-01-01
+Political Stability Index GNQ,,-0.0742535442113876,2022-01-01
+Political Stability Index LBR,,-2.43946290016174,1996-01-01
+Political Stability Index LBR,,-1.75555086135864,1998-01-01
+Political Stability Index LBR,,-1.95288050174713,2000-01-01
+Political Stability Index LBR,,-2.18961954116821,2002-01-01
+Political Stability Index LBR,,-2.15939283370972,2003-01-01
+Political Stability Index LBR,,-1.36538577079773,2004-01-01
+Political Stability Index LBR,,-1.35790872573853,2005-01-01
+Political Stability Index LBR,,-1.32684123516083,2006-01-01
+Political Stability Index LBR,,-1.24483954906464,2007-01-01
+Political Stability Index LBR,,-1.28312230110168,2008-01-01
+Political Stability Index LBR,,-1.05055463314056,2009-01-01
+Political Stability Index LBR,,-0.468525290489197,2010-01-01
+Political Stability Index LBR,,-0.427370250225067,2011-01-01
+Political Stability Index LBR,,-0.484476506710052,2012-01-01
+Political Stability Index LBR,,-0.475507080554962,2013-01-01
+Political Stability Index LBR,,-0.615449607372284,2014-01-01
+Political Stability Index LBR,,-0.817833304405212,2015-01-01
+Political Stability Index LBR,,-0.441768199205399,2016-01-01
+Political Stability Index LBR,,-0.32053479552269,2017-01-01
+Political Stability Index LBR,,-0.203764617443085,2018-01-01
+Political Stability Index LBR,,-0.339135408401489,2019-01-01
+Political Stability Index LBR,,-0.314182639122009,2020-01-01
+Political Stability Index LBR,,-0.286361515522003,2021-01-01
+Political Stability Index LBR,,-0.291599869728088,2022-01-01
+Political Stability Index LBN,,-0.668952643871307,1996-01-01
+Political Stability Index LBN,,-0.752315282821655,1998-01-01
+Political Stability Index LBN,,-0.439044535160065,2000-01-01
+Political Stability Index LBN,,-0.35481521487236,2002-01-01
+Political Stability Index LBN,,-0.459642589092255,2003-01-01
+Political Stability Index LBN,,-0.713360965251923,2004-01-01
+Political Stability Index LBN,,-0.999740839004517,2005-01-01
+Political Stability Index LBN,,-1.8038626909256,2006-01-01
+Political Stability Index LBN,,-2.11909532546997,2007-01-01
+Political Stability Index LBN,,-1.87660884857178,2008-01-01
+Political Stability Index LBN,,-1.5616968870163,2009-01-01
+Political Stability Index LBN,,-1.62501502037048,2010-01-01
+Political Stability Index LBN,,-1.55828750133514,2011-01-01
+Political Stability Index LBN,,-1.66481232643127,2012-01-01
+Political Stability Index LBN,,-1.69035339355469,2013-01-01
+Political Stability Index LBN,,-1.69794130325317,2014-01-01
+Political Stability Index LBN,,-1.69836449623108,2015-01-01
+Political Stability Index LBN,,-1.61568403244019,2016-01-01
+Political Stability Index LBN,,-1.62222683429718,2017-01-01
+Political Stability Index LBN,,-1.62153577804565,2018-01-01
+Political Stability Index LBN,,-1.67229104042053,2019-01-01
+Political Stability Index LBN,,-1.62113451957703,2020-01-01
+Political Stability Index LBN,,-1.48194456100464,2021-01-01
+Political Stability Index LBN,,-1.47351241111755,2022-01-01
+Political Stability Index LCA,,1.03555142879486,1996-01-01
+Political Stability Index LCA,,0.3500617146492,1998-01-01
+Political Stability Index LCA,,1.22359979152679,2000-01-01
+Political Stability Index LCA,,0.36293163895607,2002-01-01
+Political Stability Index LCA,,1.16978526115417,2003-01-01
+Political Stability Index LCA,,1.2183393239975,2004-01-01
+Political Stability Index LCA,,1.00011491775513,2005-01-01
+Political Stability Index LCA,,0.860106229782104,2006-01-01
+Political Stability Index LCA,,0.617986261844635,2007-01-01
+Political Stability Index LCA,,0.640764355659485,2008-01-01
+Political Stability Index LCA,,0.685753643512726,2009-01-01
+Political Stability Index LCA,,0.790275514125824,2010-01-01
+Political Stability Index LCA,,0.849078357219696,2011-01-01
+Political Stability Index LCA,,0.893705666065216,2012-01-01
+Political Stability Index LCA,,0.85335773229599,2013-01-01
+Political Stability Index LCA,,0.816450417041779,2014-01-01
+Political Stability Index LCA,,0.837734758853912,2015-01-01
+Political Stability Index LCA,,0.998592257499695,2016-01-01
+Political Stability Index LCA,,0.974609792232513,2017-01-01
+Political Stability Index LCA,,0.993263125419617,2018-01-01
+Political Stability Index LCA,,0.906494319438934,2019-01-01
+Political Stability Index LCA,,0.864660143852234,2020-01-01
+Political Stability Index LCA,,0.831884622573853,2021-01-01
+Political Stability Index LCA,,0.869225919246674,2022-01-01
+Political Stability Index LBY,,-0.988058924674988,1996-01-01
+Political Stability Index LBY,,-0.809740364551544,1998-01-01
+Political Stability Index LBY,,-0.294286817312241,2000-01-01
+Political Stability Index LBY,,-0.0953808054327965,2002-01-01
+Political Stability Index LBY,,0.120704226195812,2003-01-01
+Political Stability Index LBY,,0.355680614709854,2004-01-01
+Political Stability Index LBY,,0.448557078838348,2005-01-01
+Political Stability Index LBY,,0.358128875494003,2006-01-01
+Political Stability Index LBY,,0.747057616710663,2007-01-01
+Political Stability Index LBY,,0.808881163597107,2008-01-01
+Political Stability Index LBY,,0.831896722316742,2009-01-01
+Political Stability Index LBY,,0.0280884467065334,2010-01-01
+Political Stability Index LBY,,-1.28737926483154,2011-01-01
+Political Stability Index LBY,,-1.5869597196579,2012-01-01
+Political Stability Index LBY,,-1.84407651424408,2013-01-01
+Political Stability Index LBY,,-2.35340714454651,2014-01-01
+Political Stability Index LBY,,-2.18965125083923,2015-01-01
+Political Stability Index LBY,,-2.27473783493042,2016-01-01
+Political Stability Index LBY,,-2.35357475280762,2017-01-01
+Political Stability Index LBY,,-2.43496870994568,2018-01-01
+Political Stability Index LBY,,-2.56577134132385,2019-01-01
+Political Stability Index LBY,,-2.46227836608887,2020-01-01
+Political Stability Index LBY,,-2.30834579467773,2021-01-01
+Political Stability Index LBY,,-2.19796347618103,2022-01-01
+Political Stability Index MYS,,0.57122015953064,1996-01-01
+Political Stability Index MYS,,-0.0381234660744667,1998-01-01
+Political Stability Index MYS,,0.0926911979913712,2000-01-01
+Political Stability Index MYS,,0.539594113826752,2002-01-01
+Political Stability Index MYS,,0.485534876585007,2003-01-01
+Political Stability Index MYS,,0.34800398349762,2004-01-01
+Political Stability Index MYS,,0.566449165344238,2005-01-01
+Political Stability Index MYS,,0.288379698991776,2006-01-01
+Political Stability Index MYS,,0.193307161331177,2007-01-01
+Political Stability Index MYS,,0.108542367815971,2008-01-01
+Political Stability Index MYS,,-0.0416609197854996,2009-01-01
+Political Stability Index MYS,,0.143352136015892,2010-01-01
+Political Stability Index MYS,,0.0774097666144371,2011-01-01
+Political Stability Index MYS,,-0.00521240243688226,2012-01-01
+Political Stability Index MYS,,0.0517915934324265,2013-01-01
+Political Stability Index MYS,,0.266619145870209,2014-01-01
+Political Stability Index MYS,,0.25394731760025,2015-01-01
+Political Stability Index MYS,,0.129485934972763,2016-01-01
+Political Stability Index MYS,,0.111208952963352,2017-01-01
+Political Stability Index MYS,,0.247989401221275,2018-01-01
+Political Stability Index MYS,,0.146066397428513,2019-01-01
+Political Stability Index MYS,,0.124463096261024,2020-01-01
+Political Stability Index MYS,,0.0587539859116077,2021-01-01
+Political Stability Index MYS,,0.140358164906502,2022-01-01
+Political Stability Index SYR,,-0.347959876060486,1996-01-01
+Political Stability Index SYR,,-0.0441065803170204,1998-01-01
+Political Stability Index SYR,,-0.180450946092606,2000-01-01
+Political Stability Index SYR,,0.277536004781723,2002-01-01
+Political Stability Index SYR,,0.0636451989412308,2003-01-01
+Political Stability Index SYR,,-0.285746335983276,2004-01-01
+Political Stability Index SYR,,-0.461608588695526,2005-01-01
+Political Stability Index SYR,,-0.278217822313309,2006-01-01
+Political Stability Index SYR,,-0.339876115322113,2007-01-01
+Political Stability Index SYR,,-0.339036047458649,2008-01-01
+Political Stability Index SYR,,-0.509100556373596,2009-01-01
+Political Stability Index SYR,,-0.805789709091187,2010-01-01
+Political Stability Index SYR,,-2.01210689544678,2011-01-01
+Political Stability Index SYR,,-2.68227386474609,2012-01-01
+Political Stability Index SYR,,-2.68114280700684,2013-01-01
+Political Stability Index SYR,,-2.74882411956787,2014-01-01
+Political Stability Index SYR,,-2.965176820755,2015-01-01
+Political Stability Index SYR,,-2.90603613853455,2016-01-01
+Political Stability Index SYR,,-2.61291766166687,2017-01-01
+Political Stability Index SYR,,-2.73627853393555,2018-01-01
+Political Stability Index SYR,,-2.73033118247986,2019-01-01
+Political Stability Index SYR,,-2.71175765991211,2020-01-01
+Political Stability Index SYR,,-2.65949296951294,2021-01-01
+Political Stability Index SYR,,-2.79725193977356,2022-01-01
+Political Stability Index SDN,,-2.47953200340271,1996-01-01
+Political Stability Index SDN,,-2.25996828079224,1998-01-01
+Political Stability Index SDN,,-2.24417304992676,2000-01-01
+Political Stability Index SDN,,-1.846431016922,2002-01-01
+Political Stability Index SDN,,-1.97705578804016,2003-01-01
+Political Stability Index SDN,,-1.54903697967529,2004-01-01
+Political Stability Index SDN,,-1.97329592704773,2005-01-01
+Political Stability Index SDN,,-2.13907742500305,2006-01-01
+Political Stability Index SDN,,-2.36272478103638,2007-01-01
+Political Stability Index SDN,,-2.48534822463989,2008-01-01
+Political Stability Index SDN,,-2.64707374572754,2009-01-01
+Political Stability Index SDN,,-2.66527771949768,2010-01-01
+Political Stability Index SDN,,-2.5229172706604,2011-01-01
+Political Stability Index SDN,,-2.26056337356567,2012-01-01
+Political Stability Index SDN,,-2.19300961494446,2013-01-01
+Political Stability Index SDN,,-2.36308455467224,2014-01-01
+Political Stability Index SDN,,-2.15515303611755,2015-01-01
+Political Stability Index SDN,,-2.33110570907593,2016-01-01
+Political Stability Index SDN,,-1.97152423858643,2017-01-01
+Political Stability Index SDN,,-1.82177793979645,2018-01-01
+Political Stability Index SDN,,-1.69619822502136,2019-01-01
+Political Stability Index SDN,,-1.65706396102905,2020-01-01
+Political Stability Index SDN,,-1.98757219314575,2021-01-01
+Political Stability Index SDN,,-1.99889421463013,2022-01-01
+Political Stability Index TKM,,0.449250608682632,1996-01-01
+Political Stability Index TKM,,0.197645246982574,1998-01-01
+Political Stability Index TKM,,0.0084470622241497,2000-01-01
+Political Stability Index TKM,,0.0704177469015121,2002-01-01
+Political Stability Index TKM,,0.0532155409455299,2003-01-01
+Political Stability Index TKM,,-0.115211933851242,2004-01-01
+Political Stability Index TKM,,0.0727133899927139,2005-01-01
+Political Stability Index TKM,,-0.244654402136803,2006-01-01
+Political Stability Index TKM,,0.277233392000198,2007-01-01
+Political Stability Index TKM,,0.537688016891479,2008-01-01
+Political Stability Index TKM,,0.485472977161407,2009-01-01
+Political Stability Index TKM,,0.334105610847473,2010-01-01
+Political Stability Index TKM,,0.234129071235657,2011-01-01
+Political Stability Index TKM,,0.428087890148163,2012-01-01
+Political Stability Index TKM,,0.249095499515533,2013-01-01
+Political Stability Index TKM,,0.0742060318589211,2014-01-01
+Political Stability Index TKM,,-0.0895711407065392,2015-01-01
+Political Stability Index TKM,,-0.195148065686226,2016-01-01
+Political Stability Index TKM,,-0.128823503851891,2017-01-01
+Political Stability Index TKM,,-0.0129793277010322,2018-01-01
+Political Stability Index TKM,,-0.178149864077568,2019-01-01
+Political Stability Index TKM,,-0.201663821935654,2020-01-01
+Political Stability Index TKM,,-0.332011014223099,2021-01-01
+Political Stability Index TKM,,-0.100280806422234,2022-01-01
+Political Stability Index TTO,,0.273877173662186,1996-01-01
+Political Stability Index TTO,,0.412275731563568,1998-01-01
+Political Stability Index TTO,,0.153456091880798,2000-01-01
+Political Stability Index TTO,,-0.0942921563982964,2002-01-01
+Political Stability Index TTO,,-0.250032126903534,2003-01-01
+Political Stability Index TTO,,-0.0683272704482079,2004-01-01
+Political Stability Index TTO,,-0.121956370770931,2005-01-01
+Political Stability Index TTO,,-0.237762182950974,2006-01-01
+Political Stability Index TTO,,-0.188574343919754,2007-01-01
+Political Stability Index TTO,,-0.117300540208817,2008-01-01
+Political Stability Index TTO,,-0.14176744222641,2009-01-01
+Political Stability Index TTO,,-0.0508231818675995,2010-01-01
+Political Stability Index TTO,,0.141080409288406,2011-01-01
+Political Stability Index TTO,,0.104277603328228,2012-01-01
+Political Stability Index TTO,,0.0936860963702202,2013-01-01
+Political Stability Index TTO,,0.247864335775375,2014-01-01
+Political Stability Index TTO,,0.279361039400101,2015-01-01
+Political Stability Index TTO,,0.277257770299912,2016-01-01
+Political Stability Index TTO,,0.269298404455185,2017-01-01
+Political Stability Index TTO,,0.230616614222527,2018-01-01
+Political Stability Index TTO,,0.081537127494812,2019-01-01
+Political Stability Index TTO,,0.110377036035061,2020-01-01
+Political Stability Index TTO,,0.239029332995415,2021-01-01
+Political Stability Index TTO,,0.357974648475647,2022-01-01
+Political Stability Index TUN,,0.262547045946121,1996-01-01
+Political Stability Index TUN,,0.263467073440552,1998-01-01
+Political Stability Index TUN,,0.321114897727966,2000-01-01
+Political Stability Index TUN,,0.154225796461105,2002-01-01
+Political Stability Index TUN,,0.317870795726776,2003-01-01
+Political Stability Index TUN,,0.148958027362823,2004-01-01
+Political Stability Index TUN,,0.0242274515330791,2005-01-01
+Political Stability Index TUN,,0.20851244032383,2006-01-01
+Political Stability Index TUN,,0.158262476325035,2007-01-01
+Political Stability Index TUN,,0.0998212322592735,2008-01-01
+Political Stability Index TUN,,0.0596117079257965,2009-01-01
+Political Stability Index TUN,,-0.0639763623476028,2010-01-01
+Political Stability Index TUN,,-0.3537417948246,2011-01-01
+Political Stability Index TUN,,-0.721316933631897,2012-01-01
+Political Stability Index TUN,,-0.902563273906708,2013-01-01
+Political Stability Index TUN,,-0.851661503314972,2014-01-01
+Political Stability Index TUN,,-0.960177004337311,2015-01-01
+Political Stability Index TUN,,-1.13972234725952,2016-01-01
+Political Stability Index TUN,,-1.02349030971527,2017-01-01
+Political Stability Index TUN,,-0.868218719959259,2018-01-01
+Political Stability Index TUN,,-0.877072870731354,2019-01-01
+Political Stability Index TUN,,-0.59433114528656,2020-01-01
+Political Stability Index TUN,,-0.756551444530487,2021-01-01
+Political Stability Index TUN,,-0.596295177936554,2022-01-01
+Political Stability Index UZB,,-0.54373174905777,1996-01-01
+Political Stability Index UZB,,-0.683049440383911,1998-01-01
+Political Stability Index UZB,,-1.30195045471191,2000-01-01
+Political Stability Index UZB,,-1.0568835735321,2002-01-01
+Political Stability Index UZB,,-1.29919517040253,2003-01-01
+Political Stability Index UZB,,-1.45551669597626,2004-01-01
+Political Stability Index UZB,,-1.95789563655853,2005-01-01
+Political Stability Index UZB,,-1.78465950489044,2006-01-01
+Political Stability Index UZB,,-1.36203336715698,2007-01-01
+Political Stability Index UZB,,-1.20710647106171,2008-01-01
+Political Stability Index UZB,,-0.950552523136139,2009-01-01
+Political Stability Index UZB,,-0.720438122749329,2010-01-01
+Political Stability Index UZB,,-0.599719345569611,2011-01-01
+Political Stability Index UZB,,-0.518739342689514,2012-01-01
+Political Stability Index UZB,,-0.536078989505768,2013-01-01
+Political Stability Index UZB,,-0.273108631372452,2014-01-01
+Political Stability Index UZB,,-0.374532461166382,2015-01-01
+Political Stability Index UZB,,-0.280753701925278,2016-01-01
+Political Stability Index UZB,,-0.244979038834572,2017-01-01
+Political Stability Index UZB,,-0.304469525814056,2018-01-01
+Political Stability Index UZB,,-0.296665459871292,2019-01-01
+Political Stability Index UZB,,-0.436710476875305,2020-01-01
+Political Stability Index UZB,,-0.252974152565002,2021-01-01
+Political Stability Index UZB,,-0.196214869618416,2022-01-01
+Political Stability Index YEM,,-1.31153786182404,1996-01-01
+Political Stability Index YEM,,-1.19284749031067,1998-01-01
+Political Stability Index YEM,,-1.14544129371643,2000-01-01
+Political Stability Index YEM,,-1.30688047409058,2002-01-01
+Political Stability Index YEM,,-1.48176205158234,2003-01-01
+Political Stability Index YEM,,-1.55118668079376,2004-01-01
+Political Stability Index YEM,,-1.43667340278625,2005-01-01
+Political Stability Index YEM,,-1.34531164169312,2006-01-01
+Political Stability Index YEM,,-1.59425187110901,2007-01-01
+Political Stability Index YEM,,-2.01279425621033,2008-01-01
+Political Stability Index YEM,,-2.32902073860168,2009-01-01
+Political Stability Index YEM,,-2.4237163066864,2010-01-01
+Political Stability Index YEM,,-2.42679643630981,2011-01-01
+Political Stability Index YEM,,-2.43066310882568,2012-01-01
+Political Stability Index YEM,,-2.37482810020447,2013-01-01
+Political Stability Index YEM,,-2.66557502746582,2014-01-01
+Political Stability Index YEM,,-2.66801619529724,2015-01-01
+Political Stability Index YEM,,-2.78448867797852,2016-01-01
+Political Stability Index YEM,,-2.93431544303894,2017-01-01
+Political Stability Index YEM,,-2.9960310459137,2018-01-01
+Political Stability Index YEM,,-2.77087378501892,2019-01-01
+Political Stability Index YEM,,-2.64764642715454,2020-01-01
+Political Stability Index YEM,,-2.58030962944031,2021-01-01
+Political Stability Index YEM,,-2.47688031196594,2022-01-01
