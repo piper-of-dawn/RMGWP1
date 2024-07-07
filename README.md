@@ -4,7 +4,7 @@
 
 
 ## Key Concept 1: Markov Property 
-$$\begin{align}
+\begin{align}
 
 P\left[\underbracket{X_{t+1}=j}_{\text{Future state}} \mid \underbracket{X_t=i}_{\text{Present state}}, \underbracket{X_{t-1}=k, \cdots, X_0=m}_{\text{Past states}}\right] \\
 
@@ -14,7 +14,7 @@ P\left[\underbracket{X_{t+1}=j}_{\text{Future state}} \mid \underbracket{X_t=i}_
 
 = \underbracket{p_{i j}}_{\text{Transition probability}}
 \end{align}
-$$
+
 1. This property implies that once the present state is known, the past states do not provide any additional information about the future state.
 2. This property implies that once the present state is known, the past states do not provide any additional information about the future state.
 3. The behavior of a Markov process can be fully described by specifying the transition probabilities $P(X_{t+1} = j \mid X_t = i)$ for all pairs of states $i, j \in S$. The set $S$ contains all possible states the process can occupy. This set is countable, meaning it can be finite or countably infinite.
@@ -34,11 +34,7 @@ Hidden states are associated are associated with an initial probability vector:
 $$    \Pi = \{\pi_i\} \qquad \text{such that} \qquad \sum_{i=1}^{N} \pi_i = 1   $$
 This represents the initial probability of the market being in a bull or bear market. For instance, based on historical data, there may be a higher probability of starting in a bull market.
 ###### 4. State transition probability matrix
-$$
-
-   A = \{a_{ij}\}
-
-   $$
+$$   A = \{a_{ij}\}   $$
 This is the state transition probability matrix. The element $a_{ij}$ represents the probability of transitioning from state $q_i$ to state $q_j. The probabilities for transitions from any given state must sum to 1:   $$   \sum_{j=1}^{N} a_{ij} = 1 \quad \forall i \in Q   $$This represents the probability of transitioning from one market regime to another. For example, the probability of transitioning from a bull market to a bear market or staying in the same market regime.
 ###### 5. Emission Probability Matrix   $$   B = \{b_i(v_k)\}   $$
 This is the emission probability matrix. The element $b_i(v_k)$ represents the probability of observing symbol $v_k$ when in state $q_i$. The probabilities for observing all possible symbols from any given state must sum to 1:   $$  \sum_{k=1}^{M} b_i(v_k) = 1 \quad \forall i \in Q   $$This represents the probability of observing specific market returns and financial indicators given a particular market regime. For example, the probability of observing positive returns and high trading volume in a bull market.
