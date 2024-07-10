@@ -75,7 +75,7 @@ def treat_outliers_isolation_forest(df, contamination=0.01):
 ```
 
 Image depicting how ISolation forest works
-![](/IsolationForest_AnomalyDetection.png)
+![](IsolationForest_AnomalyDetection.png)
 
 
 
