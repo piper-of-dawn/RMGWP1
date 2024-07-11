@@ -1,0 +1,6 @@
+- Finn V. Jensen, , Thomas D. Nielsen. "Bayesian Networks and DecisionGraphs". Information Science and Statistics. (2007).
+- Nima Khakzad, , Faisal Khan, Paul Amyotte, Valerio Cozzani. "Domino Effect Analysis Using Bayesian Networks". Risk Analysis 33. (2012): 292-306.
+- Xinhong Li, , Guoming Chen, Hongwei Zhu. "Quantitative risk analysis on leakage failure of submarine oil and gas pipelines using Bayesian network". Process Safety and Environmental Protection 103. (2016): 163-173.
+- Jose, S. Bayesian Network Structure Learning and its Application on Simulation-based Learning. (2020).
+- Wei Xiang, , Wenxing Zhou. "Integrated pipeline corrosion growth modeling and reliability analysis using dynamic Bayesian network and parameter learning technique". Structure and Infrastructure Engineering 16. (2020): 1161-1176.
+- Danaja Rutar, , Olympia Colizoli, Luc Selen, Lukas Spieß, Johan Kwisthout, Sabine Hunnius. "Differentiating between Bayesian parameter learning and structure learning based on behavioural and pupil measures". PLoS ONE 18. (2023).
